@@ -76,7 +76,9 @@ NOOO pension boost
 Day 3
 
 *Policies*
-
+Community centre in 111
+Trade agreement in 111
+Dual-income all years
 
 
 *GDP*
@@ -90,6 +92,7 @@ Day 3
 
 _Notes_
 112 and 115 high temp -> locust
+111 and 114 3 years-> sturgeon
 
 110-115 no extra retirees
 So, because of the increased retirement age, we'll have an extra loss in the years 111-114, but none in 115
@@ -100,3 +103,7 @@ Gini coefficients of the last few years, in github i have all years in gini-all.
 108    0.458743
 109    0.457654
 110    0.457844
+
+maybe trade agreement and community centre
+Dual household always good.
+
