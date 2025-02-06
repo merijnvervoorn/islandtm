@@ -107,3 +107,20 @@ Gini coefficients of the last few years, in github i have all years in gini-all.
 maybe trade agreement and community centre
 Dual household always good.
 
+
+
+
+Day 4
+*Policies*
+(Anounced in group) security infrastructure for all years
+dual-income all years
+sports facilities in 116
+
+
+
+
+
+Day 5
+
+
+Trade agreement last year
