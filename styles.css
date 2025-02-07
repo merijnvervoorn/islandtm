@@ -1,0 +1,167 @@
+/* 
+  Color palette inspired by the island image:
+  - Primary green: #7BB47B (soft green)
+  - Secondary blue/teal: #6EB1B1
+  - Accent: #F2F2F2 (light neutral)
+  - Dark text: #333
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+  }
+  
+  body {
+    background-color: #F2F2F2;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* Header & Navigation */
+  header {
+    background-color: #7BB47B;
+    color: #fff;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .header-logo h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .main-nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .main-nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .main-nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Hero Section */
+  .hero {
+    position: relative;
+    text-align: center;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .island-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(250, 250, 250, 0.8);
+    padding: 1rem 2rem;
+    border-radius: 8px;
+  }
+  
+  .hero-text h2 {
+    margin-bottom: 0.5rem;
+    color: #333;
+  }
+  
+  /* Sections */
+  .section {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  
+  .section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #6EB1B1;
+    text-align: center;
+  }
+  
+  /* Policy Section */
+  .policy-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  .policy {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    flex: 1 1 250px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .policy h3 {
+    color: #7BB47B;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Programs Section */
+  .program-list {
+    list-style: disc;
+    margin-left: 2rem;
+    margin-top: 1rem;
+  }
+  
+  /* Community Section */
+  .facilities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  .facility {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 5px;
+    flex: 1 1 250px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .facility h3 {
+    color: #7BB47B;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Contact Section */
+  .contact-section {
+    text-align: center;
+  }
+  
+  .contact-info {
+    list-style: none;
+    margin-top: 1rem;
+  }
+  
+  .contact-info li {
+    margin: 0.5rem 0;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #7BB47B;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+  }
+  
