@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tāmorék Language Course</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Extra styling to complement the course page */
+    .course-nav {
+      background-color: var(--blue);
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    
+    .course-nav ul {
+      list-style: none;
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+    }
+
+    .course-nav a {
+      text-decoration: none;
+      color: var(--white);
+      font-weight: bold;
+      font-size: 1.1rem;
+      padding: 0.5rem 1rem;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .course-nav a:hover {
+      background-color: var(--brown);
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background-color: var(--blue);
+      color: var(--white);
+      font-size: 1.2rem;
+      text-decoration: none;
+      text-align: center;
+      border-radius: 5px;
+      margin-top: 1.5rem;
+      transition: background-color 0.3s;
+    }
+
+    .cta-button:hover {
+      background-color: var(--brown);
+    }
+
+    .hero-text h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .hero-text p {
+      font-size: 1.3rem;
+    }
+
+    .section ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+    }
+
+    .section ul li {
+      font-size: 1.1rem;
+    }
+
+    .initiatives-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .initiative-box {
+      border: 1px solid var(--brown);
+      border-radius: 5px;
+      padding: 1rem;
+      background-color: var(--white);
+      box-shadow: 0 2px 4px rgba(19, 62, 68, 0.1);
+    }
+
+    .initiative-box h3 {
+      font-size: 1.5rem;
+      color: var(--blue);
+      margin-bottom: 0.5rem;
+    }
+
+    .main-nav-link {
+      text-decoration: none;
+      color: var(--blue);
+      font-weight: bold;
+      margin-top: 1rem;
+      display: inline-block;
+      border-top: 2px solid var(--blue);
+      padding-top: 0.5rem;
+    }
+
+    .main-nav-link:hover {
+      color: var(--brown);
+      border-color: var(--brown);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <h1>Learn Tāmorék: The Island TM Language Adventure</h1>
+    </div>
+  </header>
+
+  <nav class="course-nav">
+    <ul>
+      <li><a href="courseweek1.html">Week 1: Greetings & Pronunciation</a></li>
+      <li><a href="courseweek2.html">Week 2: Everyday Vocabulary</a></li>
+      <li><a href="courseweek3.html">Week 3: Simple Sentences & Questions</a></li>
+      <li><a href="courseweek4.html">Week 4: Conversational Practice</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section class="hero">
+      <div class="hero-overlay"></div>
+      <div class="hero-text">
+        <h1>Unlock the Magic of Tāmorék!</h1>
+        <p>Dive into the heart of Island TM's vibrant culture by mastering its rhythmic and beautiful language. Whether you’re looking to impress locals or just add a unique skill to your repertoire, this course has got you covered!</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Why Join the Course?</h2>
+      <ul>
+        <li><strong>Engaging Lessons:</strong> Bite-sized, fun, and practical.</li>
+        <li><strong>Oceanic Inspiration:</strong> Immerse yourself in language shaped by island culture.</li>
+        <li><strong>Complete in Just Four Weeks:</strong> Learn at your pace and become conversational.</li>
+        <li><strong>Flexible & Fun:</strong> Whether sipping coconut water or commuting, fit Tāmorék into your life!</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Course Overview</h2>
+      <div class="initiatives-container">
+        <div class="initiative-box">
+          <h3>Week 1: Greetings & Pronunciation</h3>
+          <p>Start strong by mastering key greetings and pronunciation tips to sound like a local.</p>
+          <a href="courseweek1.html" class="main-nav-link">Start Week 1 &rarr;</a>
+        </div>
+        <div class="initiative-box">
+          <h3>Week 2: Everyday Vocabulary</h3>
+          <p>Expand your vocabulary with essential words for daily conversations.</p>
+          <a href="courseweek2.html" class="main-nav-link">Go to Week 2 &rarr;</a>
+        </div>
+        <div class="initiative-box">
+          <h3>Week 3: Simple Sentences & Questions</h3>
+          <p>Learn how to form simple sentences and ask questions confidently.</p>
+          <a href="courseweek3.html" class="main-nav-link">Explore Week 3 &rarr;</a>
+        </div>
+        <div class="initiative-box">
+          <h3>Week 4: Conversational Practice</h3>
+          <p>Put everything together and practice real-life conversations.</p>
+          <a href="courseweek4.html" class="main-nav-link">Final Week &rarr;</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Ready to Begin?</h2>
+      <p>Embark on your journey today. Master the beautiful language of Tāmorék and unlock the spirit of Island TM!</p>
+      <a href="courseweek1.html" class="cta-button">Start Learning Now &rarr;</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 125 ISLAND™ Government. All rights reserved.</p>
+  </footer>
+</body>
+</html>

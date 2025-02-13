@@ -1,0 +1,2517 @@
+year,sex,profession,income,age
+101,F,retired,-1543.10,76
+101,F,retired,1650.00,74
+101,X,retired,-1348.72,74
+101,F,retired,4154.29,74
+101,F,retired,-1359.93,73
+101,F,retired,1731.46,73
+101,F,retired,2049.03,72
+101,M,retired,1272.33,71
+101,M,retired,1843.09,71
+101,M,retired,1542.47,71
+101,F,retired,4640.65,70
+101,F,retired,1957.19,70
+101,F,retired,-608.53,70
+101,F,retired,1914.99,70
+101,M,retired,3530.55,70
+101,X,retired,4838.13,70
+101,M,retired,-1082.22,69
+101,F,retired,1793.74,69
+101,M,retired,-1027.16,69
+101,F,retired,1395.06,69
+101,F,retired,1891.90,69
+101,F,retired,4334.77,68
+101,M,retired,3640.35,68
+101,M,retired,3438.70,68
+101,M,retired,4414.66,68
+101,F,retired,-980.70,68
+101,F,retired,-1008.17,68
+101,F,retired,4353.16,68
+101,F,retired,4481.43,67
+101,M,retired,-880.87,67
+101,M,retired,4438.21,67
+101,M,retired,1751.72,67
+101,M,retired,3298.03,67
+101,M,retired,-86.98,67
+101,F,retired,1792.63,67
+101,F,retired,-307.41,66
+101,M,retired,1749.55,66
+101,M,retired,4093.31,66
+101,M,retired,4132.10,66
+101,F,retired,-887.33,66
+101,M,retired,3164.58,65
+101,X,retired,3923.69,65
+101,M,retired,1712.75,65
+101,F,retired,3160.63,65
+101,F,retired,1720.36,65
+101,F,retired,1667.24,65
+101,M,retired,1230.90,65
+101,M,retired,1236.67,65
+101,M,retired,-803.23,65
+101,F,retired,3337.54,65
+101,F,retired,-791.20,65
+101,F,craftsman,8958.82,64
+101,M,farmer,3965.75,64
+101,F,service provider,11753.68,64
+101,M,craftsman,8445.99,64
+101,F,farmer,3582.07,64
+101,F,craftsman,8500.16,64
+101,M,homemaker,-725.13,64
+101,F,fisher,4107.85,64
+101,F,fisher,4269.05,64
+101,F,farmer,4060.12,64
+101,F,fisher,4330.33,64
+101,M,craftsman,9303.54,64
+101,F,craftsman,8643.38,63
+101,M,service provider,10087.57,63
+101,M,craftsman,8493.62,63
+101,F,farmer,3806.70,63
+101,M,fisher,4139.23,63
+101,F,homemaker,-698.68,63
+101,M,civil servant,11015.57,63
+101,F,farmer,4118.21,63
+101,M,unemployed,-683.21,63
+101,F,unemployed,-700.17,63
+101,F,fisher,4121.72,63
+101,M,farmer,3703.50,62
+101,M,fisher,3722.26,62
+101,F,craftsman,8242.63,62
+101,M,farmer,3831.13,62
+101,M,craftsman,8000.77,62
+101,X,farmer,3940.97,62
+101,F,craftsman,8623.50,62
+101,F,farmer,3966.44,62
+101,M,farmer,3935.31,62
+101,F,craftsman,8635.39,62
+101,F,craftsman,7917.04,61
+101,M,fisher,3754.36,61
+101,F,fisher,3598.06,61
+101,M,farmer,3714.13,61
+101,F,civil servant,9818.63,61
+101,F,service provider,9868.11,61
+101,F,craftsman,7960.95,61
+101,M,farmer,3809.26,61
+101,F,farmer,3542.03,60
+101,F,farmer,3781.25,60
+101,M,craftsman,8014.07,60
+101,F,civil servant,10367.42,60
+101,F,civil servant,10200.41,60
+101,F,service provider,9434.84,60
+101,F,homemaker,-582.49,60
+101,M,homemaker,-565.68,60
+101,M,fisher,3542.04,59
+101,F,farmer,3550.56,59
+101,M,farmer,3576.89,59
+101,M,service provider,9518.67,59
+101,M,homemaker,-586.98,59
+101,M,service provider,10040.10,59
+101,F,farmer,3434.25,59
+101,M,fisher,3326.63,58
+101,X,homemaker,-549.04,58
+101,F,homemaker,-517.48,58
+101,F,farmer,3603.96,58
+101,M,farmer,3572.65,58
+101,X,civil servant,9467.44,58
+101,M,fisher,3417.01,58
+101,F,craftsman,7668.59,58
+101,M,civil servant,9470.62,57
+101,F,craftsman,6935.00,57
+101,F,service provider,8775.16,57
+101,F,fisher,3223.63,57
+101,M,homemaker,-508.74,57
+101,F,fisher,3447.30,57
+101,F,fisher,3400.01,57
+101,M,fisher,3322.47,57
+101,F,craftsman,6863.32,56
+101,F,craftsman,7205.17,56
+101,M,fisher,3115.34,56
+101,F,farmer,3243.09,56
+101,M,craftsman,5536.17,56
+101,F,civil servant,7915.38,56
+101,F,service provider,8828.49,56
+101,M,farmer,3271.52,56
+101,M,farmer,3204.80,56
+101,F,civil servant,8769.73,56
+101,M,fisher,3304.44,55
+101,F,fisher,3230.85,55
+101,M,service provider,8901.74,55
+101,F,fisher,3168.48,55
+101,M,fisher,3051.76,55
+101,F,homemaker,-449.72,55
+101,M,craftsman,6323.41,55
+101,F,service provider,8879.77,55
+101,M,homemaker,-442.12,55
+101,M,craftsman,6892.63,54
+101,F,fisher,3105.46,54
+101,M,farmer,3013.20,54
+101,M,farmer,3198.43,54
+101,M,fisher,3120.08,54
+101,M,homemaker,-424.10,54
+101,M,fisher,2984.39,54
+101,M,civil servant,8813.47,54
+101,M,craftsman,6960.60,54
+101,F,civil servant,7820.58,53
+101,F,farmer,2924.22,53
+101,F,craftsman,6297.11,53
+101,M,unemployed,-396.78,53
+101,M,craftsman,6625.82,53
+101,M,civil servant,7867.13,53
+101,F,homemaker,-398.85,53
+101,F,fisher,2118.26,53
+101,F,homemaker,-365.66,52
+101,M,civil servant,7877.90,52
+101,F,unemployed,-347.76,52
+101,M,farmer,2822.34,52
+101,F,civil servant,7794.06,52
+101,F,homemaker,-363.46,52
+101,F,civil servant,8324.96,52
+101,M,service provider,7425.51,51
+101,M,farmer,2942.41,51
+101,F,craftsman,6209.49,51
+101,M,civil servant,7508.18,51
+101,M,craftsman,6191.61,51
+101,M,service provider,7493.72,51
+101,M,homemaker,-318.44,50
+101,F,farmer,2870.13,50
+101,M,civil servant,7394.86,50
+101,F,farmer,2871.50,50
+101,M,farmer,2712.22,50
+101,M,service provider,7281.83,50
+101,M,service provider,7179.00,49
+101,M,fisher,2567.10,49
+101,F,farmer,2847.75,49
+101,X,unemployed,-279.90,49
+101,F,craftsman,5668.99,49
+101,F,farmer,2593.12,49
+101,M,craftsman,6032.55,49
+101,F,unemployed,-269.45,48
+101,F,fisher,2675.02,48
+101,M,homemaker,-253.34,48
+101,M,fisher,2529.14,48
+101,M,homemaker,-258.85,48
+101,F,craftsman,5429.37,48
+101,X,homemaker,-262.87,48
+101,M,service provider,7029.14,47
+101,F,craftsman,5204.88,47
+101,M,craftsman,5320.07,47
+101,X,fisher,1652.81,47
+101,M,craftsman,5241.36,47
+101,F,farmer,2593.55,47
+101,M,fisher,2553.53,47
+101,F,unemployed,-236.06,47
+101,M,farmer,2457.16,47
+101,F,farmer,2464.26,46
+101,M,civil servant,6342.51,46
+101,F,service provider,6972.68,46
+101,F,service provider,6829.59,46
+101,M,craftsman,5193.28,46
+101,F,homemaker,-218.92,46
+101,X,unemployed,-208.06,46
+101,F,farmer,2322.83,45
+101,X,fisher,2325.45,45
+101,M,service provider,6496.12,45
+101,M,craftsman,5364.34,45
+101,F,homemaker,-184.17,45
+101,F,farmer,2335.66,45
+101,F,farmer,2331.93,45
+101,F,farmer,2317.11,44
+101,F,homemaker,-170.69,44
+101,F,fisher,2240.57,44
+101,F,craftsman,4809.06,44
+101,M,fisher,2202.17,44
+101,F,service provider,6031.84,44
+101,M,farmer,2483.62,44
+101,M,farmer,2453.54,44
+101,M,fisher,1590.86,43
+101,M,homemaker,-150.33,43
+101,F,fisher,2231.21,43
+101,F,fisher,2188.36,43
+101,F,service provider,6350.70,43
+101,M,unemployed,-150.54,43
+101,M,service provider,6080.31,43
+101,F,homemaker,-125.62,42
+101,M,fisher,2118.10,42
+101,F,craftsman,4675.24,42
+101,X,unemployed,-121.95,42
+101,M,unemployed,-126.78,42
+101,M,civil servant,6029.34,42
+101,F,civil servant,5893.34,41
+101,F,homemaker,-113.80,41
+101,M,farmer,2134.87,41
+101,M,unemployed,-111.32,41
+101,M,service provider,5766.16,41
+101,M,unemployed,-111.00,41
+101,M,unemployed,-111.87,41
+101,M,homemaker,-96.80,40
+101,M,civil servant,5732.83,40
+101,F,fisher,2083.12,40
+101,M,fisher,2064.35,40
+101,M,farmer,2078.26,40
+101,X,service provider,5462.60,40
+101,M,fisher,2001.24,39
+101,M,craftsman,4447.19,39
+101,F,civil servant,5188.40,39
+101,F,farmer,1971.09,39
+101,F,unemployed,-80.42,39
+101,F,fisher,1954.92,39
+101,F,unemployed,-63.24,38
+101,M,homemaker,-63.34,38
+101,F,farmer,2025.76,38
+101,M,fisher,2015.95,38
+101,M,homemaker,-62.15,38
+101,F,service provider,5372.22,38
+101,M,craftsman,4057.61,37
+101,M,craftsman,4044.59,37
+101,F,homemaker,-50.84,37
+101,X,unemployed,-52.49,37
+101,M,fisher,1881.05,37
+101,F,fisher,1822.96,37
+101,M,service provider,4943.76,37
+101,M,fisher,1850.71,37
+101,F,farmer,1852.24,36
+101,F,homemaker,-38.27,36
+101,X,homemaker,-37.79,36
+101,F,fisher,1758.53,36
+101,M,farmer,1843.57,36
+101,F,unemployed,-38.36,36
+101,M,fisher,1769.61,36
+101,M,service provider,4698.27,35
+101,M,farmer,1887.13,35
+101,F,unemployed,-23.36,35
+101,M,fisher,1762.11,35
+101,F,farmer,1851.26,35
+101,M,unemployed,-22.96,35
+101,M,civil servant,4918.97,35
+101,M,unemployed,-24.68,35
+101,F,service provider,4516.50,34
+101,F,civil servant,4517.30,34
+101,M,fisher,1634.68,34
+101,F,homemaker,-10.58,34
+101,M,craftsman,3699.68,34
+101,F,service provider,4702.13,34
+101,M,farmer,1783.78,34
+101,M,homemaker,1.54,33
+101,M,fisher,1599.51,33
+101,M,craftsman,3720.93,33
+101,F,craftsman,3565.65,33
+101,M,fisher,1644.66,33
+101,X,unemployed,1.61,33
+101,F,service provider,4513.49,33
+101,M,homemaker,12.05,32
+101,M,fisher,1602.98,32
+101,M,homemaker,11.85,32
+101,M,civil servant,4439.84,32
+101,F,civil servant,4519.23,32
+101,F,farmer,1654.59,32
+101,F,farmer,1680.97,32
+101,M,homemaker,23.37,31
+101,M,service provider,3998.39,31
+101,M,civil servant,4348.25,31
+101,M,craftsman,3400.26,31
+101,M,homemaker,22.71,31
+101,M,fisher,1519.18,31
+101,M,farmer,1531.13,30
+101,M,fisher,1551.60,30
+101,F,unemployed,33.84,30
+101,F,fisher,1507.09,30
+101,F,fisher,1556.51,30
+101,F,homemaker,33.51,30
+101,F,craftsman,3060.52,29
+101,M,civil servant,3734.81,29
+101,M,service provider,3949.23,29
+101,F,fisher,1511.86,29
+101,M,farmer,1497.08,29
+101,M,fisher,1462.68,29
+101,M,craftsman,2946.00,28
+101,M,farmer,1433.04,28
+101,M,craftsman,3007.11,28
+101,F,farmer,1507.19,28
+101,M,farmer,1425.14,28
+101,X,craftsman,2895.74,28
+101,M,fisher,1370.39,27
+101,F,homemaker,57.65,27
+101,F,unemployed,59.20,27
+101,F,civil servant,3670.13,27
+101,F,homemaker,66.87,26
+101,F,unemployed,63.69,26
+101,F,civil servant,3476.59,26
+101,F,unemployed,69.76,25
+101,M,fisher,1224.80,25
+101,M,farmer,1272.19,25
+101,M,craftsman,2523.00,25
+101,M,fisher,1262.20,24
+101,F,craftsman,2698.55,24
+101,F,fisher,1192.79,24
+101,F,farmer,1335.35,24
+101,F,craftsman,2488.95,24
+101,M,homemaker,78.98,23
+101,M,civil servant,3078.31,23
+101,M,homemaker,82.99,23
+101,F,service provider,3102.59,23
+101,X,homemaker,86.93,22
+101,M,homemaker,81.85,22
+101,F,service provider,2956.75,22
+101,F,farmer,1143.26,21
+101,M,homemaker,88.52,21
+101,M,fisher,1051.96,21
+101,F,craftsman,2221.97,20
+101,F,farmer,1062.83,20
+101,F,fisher,1068.48,20
+101,X,unemployed,94.77,19
+101,F,farmer,1032.39,19
+101,F,unemployed,91.62,19
+101,F,unemployed,92.19,19
+101,F,unemployed,98.57,18
+101,F,farmer,1018.77,18
+101,F,fisher,961.38,18
+101,F,craftsman,2074.64,18
+101,M,fisher,936.62,18
+101,M,farmer,987.88,18
+101,F,child,0.00,17
+101,F,child,0.00,17
+101,M,child,0.00,17
+101,F,child,0.00,17
+101,M,child,0.00,17
+101,M,child,0.00,17
+101,M,child,0.00,17
+101,F,child,0.00,16
+101,M,child,0.00,16
+101,F,child,0.00,16
+101,M,child,0.00,16
+101,F,child,0.00,16
+101,M,child,0.00,16
+101,M,child,0.00,15
+101,F,child,0.00,15
+101,F,child,0.00,15
+101,M,child,0.00,15
+101,F,child,0.00,15
+101,F,child,0.00,15
+101,M,child,0.00,15
+101,F,child,0.00,14
+101,M,child,0.00,14
+101,M,child,0.00,14
+101,F,child,0.00,14
+101,M,child,0.00,14
+101,M,child,0.00,14
+101,F,child,0.00,14
+101,F,child,0.00,13
+101,M,child,0.00,13
+101,F,child,0.00,13
+101,F,child,0.00,13
+101,F,child,0.00,13
+101,F,child,0.00,13
+101,F,child,0.00,13
+101,F,child,0.00,12
+101,F,child,0.00,12
+101,M,child,0.00,12
+101,M,child,0.00,12
+101,F,child,0.00,12
+101,F,child,0.00,12
+101,X,child,0.00,12
+101,M,child,0.00,12
+101,F,child,0.00,11
+101,M,child,0.00,11
+101,F,child,0.00,11
+101,M,child,0.00,11
+101,M,child,0.00,11
+101,F,child,0.00,11
+101,M,child,0.00,11
+101,M,child,0.00,10
+101,F,child,0.00,10
+101,M,child,0.00,10
+101,F,child,0.00,10
+101,M,child,0.00,10
+101,F,child,0.00,10
+101,M,child,0.00,10
+101,M,child,0.00,10
+101,F,child,0.00,9
+101,M,child,0.00,9
+101,M,child,0.00,9
+101,M,child,0.00,9
+101,F,child,0.00,9
+101,F,child,0.00,9
+101,F,child,0.00,9
+101,M,child,0.00,8
+101,M,child,0.00,8
+101,F,child,0.00,8
+101,F,child,0.00,8
+101,M,child,0.00,8
+101,M,child,0.00,8
+101,M,child,0.00,8
+101,M,child,0.00,7
+101,F,child,0.00,7
+101,M,child,0.00,7
+101,M,child,0.00,7
+101,F,child,0.00,7
+101,F,child,0.00,7
+101,F,child,0.00,7
+101,F,child,0.00,7
+101,M,child,0.00,7
+101,M,child,0.00,6
+101,M,child,0.00,6
+101,F,child,0.00,6
+101,F,child,0.00,6
+101,F,child,0.00,6
+101,F,child,0.00,6
+101,F,child,0.00,6
+101,M,child,0.00,6
+101,F,child,0.00,6
+101,F,child,0.00,5
+101,M,child,0.00,5
+101,F,child,0.00,5
+101,F,child,0.00,5
+101,M,child,0.00,5
+101,M,child,0.00,5
+101,M,child,0.00,5
+101,M,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,4
+101,F,child,0.00,3
+101,M,child,0.00,3
+101,F,child,0.00,3
+101,F,child,0.00,3
+101,F,child,0.00,3
+101,F,child,0.00,3
+101,F,child,0.00,3
+101,F,child,0.00,2
+101,M,child,0.00,2
+101,M,child,0.00,2
+101,F,child,0.00,2
+101,M,child,0.00,2
+101,F,child,0.00,2
+101,M,child,0.00,2
+101,M,child,0.00,1
+101,F,child,0.00,1
+101,F,child,0.00,1
+101,M,child,0.00,1
+101,M,child,0.00,1
+101,M,child,0.00,1
+101,M,child,0.00,1
+101,F,child,0.00,0
+101,F,child,0.00,0
+101,M,child,0.00,0
+101,F,child,0.00,0
+101,F,child,0.00,0
+101,M,child,0.00,0
+101,F,child,0.00,0
+101,F,child,0.00,0
+102,X,retired,-1505.24,75
+102,F,retired,4383.94,75
+102,F,retired,-1408.32,74
+102,F,retired,1653.34,74
+102,F,retired,2025.57,73
+102,M,retired,1348.96,72
+102,M,retired,1802.41,72
+102,M,retired,1577.69,72
+102,F,retired,5003.29,71
+102,F,retired,1971.44,71
+102,M,retired,3801.10,71
+102,X,retired,4887.39,71
+102,M,retired,-1146.84,70
+102,F,retired,1901.17,70
+102,M,retired,-1095.54,70
+102,F,retired,1451.22,70
+102,F,retired,2049.24,70
+102,F,retired,4482.50,69
+102,M,retired,3739.77,69
+102,M,retired,3725.70,69
+102,M,retired,4845.55,69
+102,F,retired,-991.11,69
+102,F,retired,-1047.18,69
+102,F,retired,4691.04,69
+102,F,retired,4279.85,68
+102,M,retired,-991.74,68
+102,M,retired,1875.83,68
+102,M,retired,3398.72,68
+102,M,retired,-108.70,68
+102,F,retired,1825.18,68
+102,M,retired,1732.54,67
+102,M,retired,4350.45,67
+102,M,retired,4348.56,67
+102,F,retired,-907.84,67
+102,M,retired,3435.32,66
+102,X,retired,4303.98,66
+102,M,retired,1630.75,66
+102,F,retired,3394.18,66
+102,F,retired,1680.73,66
+102,F,retired,1671.34,66
+102,M,retired,1243.01,66
+102,M,retired,1260.02,66
+102,F,retired,3306.84,66
+102,F,retired,-885.71,66
+102,F,retired,3163.93,65
+102,M,retired,1334.18,65
+102,F,retired,4300.52,65
+102,M,retired,3314.08,65
+102,F,retired,716.34,65
+102,F,retired,3120.69,65
+102,M,retired,-795.55,65
+102,F,retired,1608.91,65
+102,F,retired,1595.06,65
+102,F,retired,1414.97,65
+102,F,retired,1720.21,65
+102,M,retired,3266.47,65
+102,F,craftsman,8705.60,64
+102,M,service provider,10315.74,64
+102,M,craftsman,8822.85,64
+102,F,farmer,3987.19,64
+102,M,fisher,3979.47,64
+102,F,homemaker,-785.97,64
+102,M,civil servant,11072.07,64
+102,F,farmer,3803.78,64
+102,M,unemployed,-731.86,64
+102,F,unemployed,-775.06,64
+102,F,fisher,4084.63,64
+102,M,farmer,3540.98,63
+102,M,fisher,4083.41,63
+102,F,craftsman,8296.52,63
+102,M,farmer,3802.19,63
+102,M,craftsman,8796.13,63
+102,X,farmer,3544.37,63
+102,F,craftsman,8904.18,63
+102,F,farmer,3697.39,63
+102,M,farmer,3547.61,63
+102,F,craftsman,8422.83,63
+102,F,craftsman,8573.29,62
+102,M,fisher,4027.81,62
+102,F,fisher,3858.96,62
+102,M,farmer,3462.85,62
+102,F,civil servant,10216.32,62
+102,F,service provider,10871.57,62
+102,F,craftsman,8527.03,62
+102,M,farmer,3729.75,62
+102,F,farmer,3591.48,61
+102,F,farmer,3488.16,61
+102,M,craftsman,8088.22,61
+102,F,civil servant,10731.48,61
+102,F,civil servant,10050.07,61
+102,F,service provider,8879.40,61
+102,F,homemaker,-646.40,61
+102,M,homemaker,-645.77,61
+102,M,fisher,3719.64,60
+102,F,farmer,3486.47,60
+102,M,farmer,3398.73,60
+102,M,service provider,10032.80,60
+102,M,homemaker,-589.45,60
+102,M,service provider,9650.72,60
+102,F,farmer,3585.35,60
+102,M,fisher,3639.04,59
+102,X,homemaker,-568.74,59
+102,F,homemaker,-562.41,59
+102,F,farmer,3466.87,59
+102,M,farmer,3260.47,59
+102,X,civil servant,10120.38,59
+102,M,fisher,3383.32,59
+102,F,craftsman,7572.71,59
+102,M,civil servant,9159.16,58
+102,F,craftsman,7203.30,58
+102,F,service provider,9305.52,58
+102,F,fisher,3550.35,58
+102,M,homemaker,-552.78,58
+102,F,fisher,3581.52,58
+102,F,fisher,3459.20,58
+102,M,fisher,3371.30,58
+102,F,craftsman,7174.34,57
+102,F,craftsman,7200.46,57
+102,M,fisher,3313.03,57
+102,F,farmer,3106.00,57
+102,M,craftsman,5202.79,57
+102,F,civil servant,8120.16,57
+102,F,service provider,9363.52,57
+102,M,farmer,3213.07,57
+102,M,farmer,3308.19,57
+102,F,civil servant,8715.27,57
+102,M,fisher,3392.96,56
+102,F,fisher,3142.68,56
+102,M,service provider,9311.91,56
+102,F,fisher,3090.83,56
+102,M,fisher,3223.67,56
+102,F,homemaker,-488.68,56
+102,M,craftsman,6456.92,56
+102,F,service provider,8593.74,56
+102,M,homemaker,-495.79,56
+102,M,craftsman,6945.01,55
+102,F,fisher,3266.92,55
+102,M,farmer,3129.70,55
+102,M,farmer,3008.07,55
+102,M,fisher,3146.05,55
+102,M,homemaker,-465.03,55
+102,M,fisher,3171.80,55
+102,M,civil servant,8758.43,55
+102,M,craftsman,7144.42,55
+102,F,civil servant,8188.31,54
+102,F,farmer,2694.81,54
+102,F,craftsman,6376.86,54
+102,M,unemployed,-409.39,54
+102,M,craftsman,6592.79,54
+102,M,civil servant,8281.37,54
+102,F,homemaker,-428.77,54
+102,F,fisher,2169.31,54
+102,F,homemaker,-393.67,53
+102,M,civil servant,8060.91,53
+102,F,unemployed,-373.32,53
+102,M,farmer,2939.05,53
+102,F,civil servant,7954.84,53
+102,F,homemaker,-369.92,53
+102,F,civil servant,8564.41,53
+102,M,service provider,7890.12,52
+102,M,farmer,2666.94,52
+102,F,craftsman,6493.15,52
+102,M,civil servant,7739.06,52
+102,M,craftsman,6538.91,52
+102,M,service provider,7939.38,52
+102,M,fisher,1819.33,51
+102,F,farmer,2660.60,51
+102,M,civil servant,7450.24,51
+102,F,farmer,2603.71,51
+102,M,farmer,2622.63,51
+102,M,service provider,7885.63,51
+102,M,service provider,7387.50,50
+102,M,fisher,2769.70,50
+102,F,farmer,2492.46,50
+102,X,unemployed,-313.18,50
+102,F,craftsman,6209.89,50
+102,F,farmer,2666.67,50
+102,M,craftsman,5813.95,50
+102,F,unemployed,-273.13,49
+102,F,fisher,2694.29,49
+102,M,homemaker,-292.70,49
+102,M,fisher,2638.05,49
+102,M,homemaker,-282.85,49
+102,F,craftsman,6063.00,49
+102,X,farmer,1716.33,49
+102,M,service provider,6835.80,48
+102,F,craftsman,5748.81,48
+102,M,craftsman,5388.20,48
+102,X,fisher,1737.24,48
+102,M,craftsman,5491.42,48
+102,F,farmer,2532.65,48
+102,M,fisher,2587.54,48
+102,F,unemployed,-262.86,48
+102,M,farmer,2395.87,48
+102,F,farmer,2461.27,47
+102,M,civil servant,7163.77,47
+102,F,service provider,6894.70,47
+102,F,service provider,7041.33,47
+102,M,craftsman,5668.55,47
+102,F,homemaker,-240.61,47
+102,X,unemployed,-226.48,47
+102,F,farmer,2303.75,46
+102,X,fisher,2329.75,46
+102,M,service provider,6821.55,46
+102,M,craftsman,5360.95,46
+102,F,fisher,1726.18,46
+102,F,farmer,2291.06,46
+102,F,farmer,2339.84,46
+102,F,farmer,2288.29,45
+102,F,homemaker,-187.45,45
+102,F,fisher,2392.34,45
+102,F,craftsman,5404.74,45
+102,M,fisher,2246.00,45
+102,F,service provider,6208.11,45
+102,M,farmer,2162.37,45
+102,M,farmer,2198.31,45
+102,M,fisher,1699.56,44
+102,M,civil servant,4999.49,44
+102,F,fisher,2338.18,44
+102,F,fisher,2335.49,44
+102,F,service provider,6511.49,44
+102,M,unemployed,-176.14,44
+102,M,service provider,6404.46,44
+102,F,homemaker,-149.23,43
+102,M,fisher,2266.32,43
+102,F,craftsman,4951.95,43
+102,X,unemployed,-148.45,43
+102,M,farmer,1535.25,43
+102,M,civil servant,5914.73,43
+102,F,civil servant,5662.52,42
+102,F,homemaker,-127.42,42
+102,M,farmer,2044.02,42
+102,M,fisher,1624.02,42
+102,M,service provider,5717.43,42
+102,M,unemployed,-126.04,42
+102,M,unemployed,-127.59,42
+102,M,homemaker,-107.77,41
+102,M,civil servant,5748.74,41
+102,F,fisher,2023.14,41
+102,M,fisher,2135.64,41
+102,M,farmer,2071.33,41
+102,X,service provider,5780.34,41
+102,M,fisher,2108.13,40
+102,M,craftsman,4418.02,40
+102,F,civil servant,5372.30,40
+102,F,farmer,1965.22,40
+102,F,unemployed,-95.46,40
+102,F,fisher,2103.49,40
+102,F,unemployed,-77.29,39
+102,M,homemaker,-80.66,39
+102,F,farmer,1938.92,39
+102,M,fisher,2047.11,39
+102,M,homemaker,-81.91,39
+102,F,service provider,5223.07,39
+102,M,craftsman,4109.02,38
+102,M,craftsman,4037.08,38
+102,F,homemaker,-66.94,38
+102,X,unemployed,-68.16,38
+102,M,fisher,1890.17,38
+102,F,fisher,1957.87,38
+102,M,service provider,5429.39,38
+102,M,fisher,1968.74,38
+102,F,farmer,1787.40,37
+102,F,homemaker,-52.13,37
+102,X,homemaker,-48.25,37
+102,F,fisher,1766.22,37
+102,M,farmer,1896.47,37
+102,F,unemployed,-51.80,37
+102,M,fisher,1826.02,37
+102,M,service provider,5127.39,36
+102,M,farmer,1769.35,36
+102,F,unemployed,-35.42,36
+102,M,fisher,1731.65,36
+102,F,farmer,1718.05,36
+102,M,fisher,1525.56,36
+102,M,civil servant,5032.60,36
+102,M,unemployed,-35.74,36
+102,F,service provider,4906.03,35
+102,F,civil servant,4337.49,35
+102,M,fisher,1682.98,35
+102,F,homemaker,-21.93,35
+102,M,craftsman,3691.01,35
+102,F,service provider,4645.97,35
+102,M,farmer,1747.24,35
+102,M,homemaker,-9.82,34
+102,M,fisher,1672.88,34
+102,M,craftsman,3558.76,34
+102,F,craftsman,3587.17,34
+102,M,fisher,1626.72,34
+102,X,unemployed,-9.67,34
+102,F,service provider,4549.90,34
+102,M,homemaker,2.02,33
+102,M,fisher,1639.32,33
+102,M,homemaker,1.80,33
+102,M,civil servant,4464.38,33
+102,F,civil servant,4245.70,33
+102,F,farmer,1575.44,33
+102,F,farmer,1607.11,33
+102,M,homemaker,13.46,32
+102,M,service provider,4511.42,32
+102,M,civil servant,4323.42,32
+102,M,craftsman,3416.05,32
+102,M,homemaker,14.47,32
+102,M,fisher,1639.87,32
+102,M,farmer,1531.09,31
+102,M,fisher,1530.89,31
+102,F,unemployed,24.18,31
+102,F,fisher,1603.13,31
+102,F,fisher,1478.43,31
+102,F,homemaker,23.87,31
+102,F,craftsman,3198.47,30
+102,M,civil servant,3977.61,30
+102,M,service provider,3899.71,30
+102,F,fisher,1467.39,30
+102,M,farmer,1516.02,30
+102,M,fisher,1473.77,30
+102,M,craftsman,3010.47,29
+102,M,farmer,1402.14,29
+102,M,craftsman,3183.68,29
+102,F,farmer,1358.19,29
+102,M,farmer,1395.78,29
+102,X,craftsman,3041.65,29
+102,M,fisher,1428.86,28
+102,F,homemaker,49.60,28
+102,F,unemployed,51.00,28
+102,F,civil servant,3784.16,28
+102,F,homemaker,59.64,27
+102,F,unemployed,57.46,27
+102,F,civil servant,3784.47,27
+102,F,unemployed,67.08,26
+102,M,fisher,1324.39,26
+102,M,farmer,1211.59,26
+102,M,craftsman,2773.57,26
+102,M,fisher,1277.56,25
+102,F,craftsman,2781.30,25
+102,F,fisher,1284.68,25
+102,F,farmer,1273.53,25
+102,F,craftsman,2562.76,25
+102,M,homemaker,76.11,24
+102,M,civil servant,3269.96,24
+102,M,fisher,1111.29,24
+102,F,service provider,3331.86,24
+102,X,service provider,3035.91,23
+102,M,homemaker,79.12,23
+102,F,service provider,2999.85,23
+102,F,farmer,1075.59,22
+102,M,homemaker,81.70,22
+102,M,fisher,1146.75,22
+102,F,craftsman,2320.41,21
+102,F,farmer,1066.78,21
+102,F,fisher,1073.56,21
+102,X,farmer,1033.18,20
+102,F,farmer,1026.30,20
+102,F,unemployed,91.80,20
+102,F,unemployed,93.88,20
+102,F,unemployed,96.88,19
+102,F,farmer,974.36,19
+102,F,fisher,1009.90,19
+102,F,craftsman,2075.01,19
+102,M,fisher,970.69,19
+102,M,farmer,984.54,19
+102,F,craftsman,2024.11,18
+102,F,farmer,877.17,18
+102,M,civil servant,2419.43,18
+102,F,service provider,2472.30,18
+102,M,farmer,915.42,18
+102,M,service provider,2443.89,18
+102,M,homemaker,94.50,18
+102,F,child,0.00,17
+102,M,child,0.00,17
+102,F,child,0.00,17
+102,M,child,0.00,17
+102,F,child,0.00,17
+102,M,child,0.00,17
+102,M,child,0.00,16
+102,F,child,0.00,16
+102,F,child,0.00,16
+102,M,child,0.00,16
+102,F,child,0.00,16
+102,F,child,0.00,16
+102,M,child,0.00,16
+102,F,child,0.00,15
+102,M,child,0.00,15
+102,M,child,0.00,15
+102,F,child,0.00,15
+102,M,child,0.00,15
+102,M,child,0.00,15
+102,F,child,0.00,15
+102,F,child,0.00,14
+102,M,child,0.00,14
+102,F,child,0.00,14
+102,F,child,0.00,14
+102,F,child,0.00,14
+102,F,child,0.00,14
+102,F,child,0.00,14
+102,F,child,0.00,13
+102,F,child,0.00,13
+102,M,child,0.00,13
+102,M,child,0.00,13
+102,F,child,0.00,13
+102,F,child,0.00,13
+102,X,child,0.00,13
+102,M,child,0.00,13
+102,F,child,0.00,12
+102,M,child,0.00,12
+102,F,child,0.00,12
+102,M,child,0.00,12
+102,M,child,0.00,12
+102,F,child,0.00,12
+102,M,child,0.00,12
+102,M,child,0.00,11
+102,F,child,0.00,11
+102,M,child,0.00,11
+102,F,child,0.00,11
+102,M,child,0.00,11
+102,F,child,0.00,11
+102,M,child,0.00,11
+102,M,child,0.00,11
+102,F,child,0.00,10
+102,M,child,0.00,10
+102,M,child,0.00,10
+102,M,child,0.00,10
+102,F,child,0.00,10
+102,F,child,0.00,10
+102,F,child,0.00,10
+102,M,child,0.00,9
+102,M,child,0.00,9
+102,F,child,0.00,9
+102,F,child,0.00,9
+102,M,child,0.00,9
+102,M,child,0.00,9
+102,M,child,0.00,9
+102,M,child,0.00,8
+102,F,child,0.00,8
+102,M,child,0.00,8
+102,M,child,0.00,8
+102,F,child,0.00,8
+102,F,child,0.00,8
+102,F,child,0.00,8
+102,F,child,0.00,8
+102,M,child,0.00,8
+102,M,child,0.00,7
+102,M,child,0.00,7
+102,F,child,0.00,7
+102,F,child,0.00,7
+102,F,child,0.00,7
+102,F,child,0.00,7
+102,F,child,0.00,7
+102,M,child,0.00,7
+102,F,child,0.00,7
+102,F,child,0.00,6
+102,M,child,0.00,6
+102,F,child,0.00,6
+102,F,child,0.00,6
+102,M,child,0.00,6
+102,M,child,0.00,6
+102,M,child,0.00,6
+102,M,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,5
+102,F,child,0.00,4
+102,M,child,0.00,4
+102,F,child,0.00,4
+102,F,child,0.00,4
+102,F,child,0.00,4
+102,F,child,0.00,4
+102,F,child,0.00,4
+102,F,child,0.00,3
+102,M,child,0.00,3
+102,M,child,0.00,3
+102,F,child,0.00,3
+102,M,child,0.00,3
+102,F,child,0.00,3
+102,M,child,0.00,3
+102,M,child,0.00,2
+102,F,child,0.00,2
+102,F,child,0.00,2
+102,M,child,0.00,2
+102,M,child,0.00,2
+102,M,child,0.00,2
+102,M,child,0.00,2
+102,F,child,0.00,1
+102,F,child,0.00,1
+102,M,child,0.00,1
+102,F,child,0.00,1
+102,F,child,0.00,1
+102,M,child,0.00,1
+102,F,child,0.00,1
+102,F,child,0.00,1
+102,F,child,0.00,0
+102,F,child,0.00,0
+102,F,child,0.00,0
+102,F,child,0.00,0
+102,M,child,0.00,0
+102,F,child,0.00,0
+102,F,child,0.00,0
+102,M,child,0.00,0
+103,X,retired,-1550.97,76
+103,F,retired,-1434.90,75
+103,F,retired,2041.32,74
+103,M,retired,1817.74,73
+103,M,retired,1606.27,73
+103,F,retired,5050.90,72
+103,F,retired,1951.24,72
+103,M,retired,3905.67,72
+103,X,retired,5254.17,72
+103,M,retired,-1211.83,71
+103,F,retired,2014.90,71
+103,M,retired,-1146.35,71
+103,F,retired,1462.91,71
+103,F,retired,2023.48,71
+103,F,retired,4724.93,70
+103,M,retired,3670.50,70
+103,M,retired,3841.57,70
+103,M,retired,4970.39,70
+103,F,retired,-1114.46,70
+103,F,retired,-1088.75,70
+103,F,retired,4782.66,69
+103,M,retired,-1026.67,69
+103,M,retired,1881.58,69
+103,M,retired,3564.75,69
+103,M,retired,-137.29,69
+103,F,retired,1841.96,69
+103,M,retired,1841.70,68
+103,M,retired,4587.58,68
+103,M,retired,4445.48,68
+103,F,retired,-999.02,68
+103,M,retired,3304.59,67
+103,X,retired,4383.19,67
+103,M,retired,1760.75,67
+103,F,retired,3431.81,67
+103,F,retired,1659.77,67
+103,F,retired,1716.87,67
+103,M,retired,1240.12,67
+103,M,retired,1331.97,67
+103,F,retired,-925.83,67
+103,F,retired,3141.02,66
+103,M,retired,1415.24,66
+103,F,retired,4211.80,66
+103,M,retired,3219.90,66
+103,F,retired,764.29,66
+103,F,retired,3378.63,66
+103,M,retired,-881.43,66
+103,F,retired,1710.78,66
+103,F,retired,1754.38,66
+103,F,retired,1598.91,66
+103,M,retired,3408.51,66
+103,F,retired,3111.17,65
+103,M,retired,3546.74,65
+103,M,retired,3297.88,65
+103,F,retired,1400.82,65
+103,M,retired,1635.86,65
+103,F,retired,-800.65,65
+103,M,retired,4070.55,65
+103,F,retired,1337.53,65
+103,M,retired,-797.42,65
+103,F,retired,-794.98,65
+103,F,retired,1644.87,65
+103,M,farmer,3888.24,64
+103,M,fisher,3912.85,64
+103,F,craftsman,9051.40,64
+103,M,farmer,3779.75,64
+103,M,craftsman,8984.77,64
+103,X,farmer,3898.65,64
+103,F,craftsman,9317.70,64
+103,F,farmer,3627.38,64
+103,M,farmer,3785.98,64
+103,F,craftsman,8430.88,64
+103,F,craftsman,8440.77,63
+103,M,fisher,4151.04,63
+103,F,fisher,3965.61,63
+103,M,farmer,3674.07,63
+103,F,civil servant,10554.73,63
+103,F,service provider,10494.30,63
+103,F,craftsman,8341.08,63
+103,M,farmer,3822.12,63
+103,F,farmer,3731.80,62
+103,F,farmer,3524.86,62
+103,M,craftsman,8768.41,62
+103,F,civil servant,10751.25,62
+103,F,civil servant,11043.09,62
+103,F,service provider,9527.95,62
+103,F,homemaker,-659.38,62
+103,M,homemaker,-685.78,62
+103,M,fisher,3881.90,61
+103,F,farmer,3647.03,61
+103,M,farmer,3442.88,61
+103,M,service provider,10208.39,61
+103,M,homemaker,-628.31,61
+103,M,service provider,10090.93,61
+103,F,farmer,3384.31,61
+103,M,fisher,3532.05,60
+103,X,homemaker,-595.61,60
+103,F,homemaker,-602.33,60
+103,F,farmer,3556.39,60
+103,M,farmer,3400.52,60
+103,X,civil servant,10125.45,60
+103,M,fisher,3694.13,60
+103,F,craftsman,7915.59,60
+103,M,civil servant,9405.99,59
+103,F,craftsman,8009.76,59
+103,F,service provider,9965.79,59
+103,F,fisher,3394.93,59
+103,M,homemaker,-596.24,59
+103,F,fisher,3531.76,59
+103,F,fisher,3511.47,59
+103,M,fisher,3360.34,59
+103,F,craftsman,7626.17,58
+103,F,craftsman,7130.94,58
+103,M,fisher,3491.22,58
+103,F,farmer,3255.33,58
+103,M,craftsman,5664.04,58
+103,F,civil servant,8562.04,58
+103,F,service provider,9384.93,58
+103,M,farmer,3216.55,58
+103,M,farmer,3262.15,58
+103,F,civil servant,9596.95,58
+103,M,fisher,3213.26,57
+103,F,fisher,3330.93,57
+103,M,service provider,9592.55,57
+103,F,fisher,3284.56,57
+103,M,fisher,3477.62,57
+103,F,homemaker,-517.69,57
+103,M,craftsman,6768.07,57
+103,F,service provider,8961.88,57
+103,M,homemaker,-533.73,57
+103,M,craftsman,7421.35,56
+103,F,fisher,3267.74,56
+103,M,farmer,3049.75,56
+103,M,farmer,3104.74,56
+103,M,fisher,3230.99,56
+103,M,homemaker,-501.64,56
+103,M,fisher,3305.46,56
+103,M,civil servant,8888.36,56
+103,M,craftsman,7263.46,56
+103,F,civil servant,8355.29,55
+103,F,farmer,2838.66,55
+103,F,craftsman,6783.93,55
+103,M,unemployed,-457.80,55
+103,M,craftsman,6709.94,55
+103,M,civil servant,9056.29,55
+103,F,homemaker,-437.16,55
+103,F,fisher,2250.06,55
+103,F,homemaker,-439.88,54
+103,M,civil servant,8757.62,54
+103,F,unemployed,-402.69,54
+103,M,farmer,2849.22,54
+103,F,civil servant,8417.96,54
+103,F,homemaker,-435.65,54
+103,F,civil servant,8404.49,54
+103,M,service provider,8008.40,53
+103,M,farmer,2665.64,53
+103,F,craftsman,6814.30,53
+103,M,civil servant,8375.28,53
+103,M,craftsman,6649.99,53
+103,M,service provider,8276.10,53
+103,M,fisher,1709.56,52
+103,F,farmer,2785.07,52
+103,M,civil servant,8054.43,52
+103,F,farmer,2681.25,52
+103,M,farmer,2725.99,52
+103,M,service provider,7818.48,52
+103,M,service provider,8024.60,51
+103,M,fisher,2759.23,51
+103,F,farmer,2699.58,51
+103,X,unemployed,-325.29,51
+103,F,craftsman,6062.49,51
+103,F,farmer,2584.72,51
+103,M,craftsman,6255.64,51
+103,F,unemployed,-301.73,50
+103,F,fisher,2683.60,50
+103,M,homemaker,-297.49,50
+103,M,fisher,2732.10,50
+103,M,homemaker,-324.30,50
+103,F,craftsman,5921.06,50
+103,X,farmer,1690.50,50
+103,M,service provider,7128.83,49
+103,F,craftsman,5629.44,49
+103,M,craftsman,6002.79,49
+103,X,fisher,1679.58,49
+103,M,craftsman,5676.32,49
+103,F,farmer,2546.88,49
+103,M,fisher,2721.47,49
+103,F,unemployed,-298.99,49
+103,M,farmer,2435.12,49
+103,F,farmer,2326.85,48
+103,M,civil servant,7169.48,48
+103,F,service provider,6849.46,48
+103,F,service provider,6813.84,48
+103,M,craftsman,5871.01,48
+103,F,homemaker,-248.46,48
+103,X,unemployed,-256.78,48
+103,F,farmer,2267.19,47
+103,X,fisher,2482.22,47
+103,M,service provider,7105.46,47
+103,M,craftsman,5717.83,47
+103,F,fisher,1753.96,47
+103,F,farmer,2460.48,47
+103,F,farmer,2270.75,47
+103,F,farmer,2266.52,46
+103,F,homemaker,-204.66,46
+103,F,fisher,2340.17,46
+103,F,craftsman,5389.53,46
+103,M,fisher,2471.55,46
+103,F,service provider,6903.32,46
+103,M,farmer,2245.94,46
+103,M,farmer,2406.47,46
+103,M,fisher,1737.90,45
+103,M,civil servant,5248.85,45
+103,F,fisher,2452.73,45
+103,F,fisher,2375.92,45
+103,F,service provider,6523.43,45
+103,M,unemployed,-182.93,45
+103,M,service provider,6735.21,45
+103,F,homemaker,-171.62,44
+103,M,fisher,2292.06,44
+103,F,craftsman,5062.82,44
+103,X,unemployed,-166.13,44
+103,M,farmer,1618.71,44
+103,M,civil servant,5982.84,44
+103,F,civil servant,6010.85,43
+103,F,homemaker,-148.67,43
+103,M,farmer,2184.51,43
+103,M,fisher,1632.04,43
+103,M,service provider,6392.85,43
+103,M,unemployed,-153.82,43
+103,M,unemployed,-151.07,43
+103,M,homemaker,-126.04,42
+103,M,civil servant,6042.93,42
+103,F,fisher,2078.41,42
+103,M,fisher,2216.75,42
+103,M,farmer,2062.85,42
+103,X,service provider,5652.88,42
+103,M,fisher,2006.50,41
+103,M,craftsman,4484.75,41
+103,F,civil servant,5891.13,41
+103,F,farmer,2080.16,41
+103,F,unemployed,-107.14,41
+103,F,fisher,2089.62,41
+103,F,unemployed,-98.16,40
+103,M,homemaker,-91.68,40
+103,F,farmer,1911.41,40
+103,M,fisher,2079.87,40
+103,M,homemaker,-93.10,40
+103,F,service provider,5502.82,40
+103,M,craftsman,4340.15,39
+103,M,craftsman,4429.02,39
+103,F,homemaker,-84.49,39
+103,X,unemployed,-77.69,39
+103,M,fisher,1990.15,39
+103,F,fisher,1939.81,39
+103,M,service provider,5522.49,39
+103,M,fisher,1938.22,39
+103,F,farmer,1829.96,38
+103,F,homemaker,-64.19,38
+103,X,homemaker,-63.63,38
+103,F,fisher,1911.49,38
+103,M,farmer,1785.88,38
+103,F,unemployed,-63.48,38
+103,M,fisher,1982.22,38
+103,M,service provider,5175.36,37
+103,M,farmer,1763.88,37
+103,F,unemployed,-47.20,37
+103,M,fisher,1939.25,37
+103,F,farmer,1785.23,37
+103,M,fisher,1431.08,37
+103,M,civil servant,5176.38,37
+103,M,unemployed,-49.99,37
+103,F,service provider,5105.32,36
+103,F,civil servant,4499.99,36
+103,M,fisher,1869.50,36
+103,F,homemaker,-33.99,36
+103,M,craftsman,3808.25,36
+103,F,service provider,5083.48,36
+103,M,farmer,1751.48,36
+103,M,homemaker,-20.84,35
+103,M,fisher,1804.77,35
+103,M,craftsman,3773.10,35
+103,F,craftsman,3979.39,35
+103,M,fisher,1764.44,35
+103,X,unemployed,-21.94,35
+103,F,service provider,4722.75,35
+103,M,homemaker,-9.25,34
+103,M,fisher,1684.45,34
+103,M,homemaker,-9.25,34
+103,M,civil servant,4530.48,34
+103,F,civil servant,4590.78,34
+103,F,farmer,1583.30,34
+103,F,farmer,1646.80,34
+103,M,homemaker,3.43,33
+103,M,service provider,4667.75,33
+103,M,civil servant,4686.00,33
+103,M,craftsman,3739.20,33
+103,M,homemaker,3.62,33
+103,M,fisher,1636.82,33
+103,M,farmer,1608.02,32
+103,M,fisher,1574.13,32
+103,F,unemployed,14.39,32
+103,F,fisher,1649.15,32
+103,F,fisher,1554.43,32
+103,F,craftsman,3119.49,32
+103,F,craftsman,3399.99,31
+103,M,civil servant,4092.67,31
+103,M,service provider,3959.56,31
+103,F,fisher,1452.22,31
+103,M,farmer,1552.11,31
+103,M,fisher,1536.81,31
+103,M,craftsman,3291.31,30
+103,M,farmer,1431.90,30
+103,M,craftsman,3267.52,30
+103,F,farmer,1488.05,30
+103,M,farmer,1408.55,30
+103,X,craftsman,3235.04,30
+103,M,fisher,1367.51,29
+103,F,homemaker,43.84,29
+103,F,unemployed,43.79,29
+103,F,civil servant,3851.27,29
+103,F,homemaker,50.98,28
+103,F,unemployed,51.21,28
+103,F,civil servant,3680.75,28
+103,F,unemployed,57.47,27
+103,M,fisher,1370.74,27
+103,M,farmer,1297.89,27
+103,M,craftsman,2834.95,27
+103,M,fisher,1270.42,26
+103,F,craftsman,2724.13,26
+103,F,fisher,1339.77,26
+103,F,farmer,1269.87,26
+103,F,craftsman,2897.47,26
+103,M,homemaker,73.96,25
+103,M,civil servant,3406.72,25
+103,M,fisher,1220.11,25
+103,F,service provider,3233.53,25
+103,X,service provider,2991.56,24
+103,M,homemaker,75.61,24
+103,F,service provider,3109.81,24
+103,F,farmer,1122.71,23
+103,M,homemaker,84.64,23
+103,M,fisher,1143.50,23
+103,F,craftsman,2336.82,22
+103,F,farmer,1060.22,22
+103,F,fisher,1079.78,22
+103,X,farmer,988.03,21
+103,F,farmer,1047.18,21
+103,F,civil servant,2645.11,21
+103,F,unemployed,91.36,21
+103,F,farmer,1020.14,20
+103,F,farmer,1001.65,20
+103,F,fisher,976.42,20
+103,F,craftsman,2095.45,20
+103,M,fisher,995.45,20
+103,M,farmer,1003.92,20
+103,F,craftsman,2080.80,19
+103,F,farmer,997.58,19
+103,M,civil servant,2565.92,19
+103,F,service provider,2464.25,19
+103,M,farmer,955.50,19
+103,M,service provider,2651.95,19
+103,M,homemaker,89.90,19
+103,F,service provider,2454.95,18
+103,M,fisher,968.44,18
+103,F,fisher,918.42,18
+103,M,fisher,918.92,18
+103,F,service provider,2432.97,18
+103,M,craftsman,1954.99,18
+103,M,child,0.00,17
+103,F,child,0.00,17
+103,F,child,0.00,17
+103,M,child,0.00,17
+103,F,child,0.00,17
+103,F,child,0.00,17
+103,M,child,0.00,17
+103,F,child,0.00,16
+103,M,child,0.00,16
+103,M,child,0.00,16
+103,F,child,0.00,16
+103,M,child,0.00,16
+103,M,child,0.00,16
+103,F,child,0.00,16
+103,F,child,0.00,15
+103,M,child,0.00,15
+103,F,child,0.00,15
+103,F,child,0.00,15
+103,F,child,0.00,15
+103,F,child,0.00,15
+103,F,child,0.00,15
+103,F,child,0.00,14
+103,F,child,0.00,14
+103,M,child,0.00,14
+103,M,child,0.00,14
+103,F,child,0.00,14
+103,F,child,0.00,14
+103,X,child,0.00,14
+103,M,child,0.00,14
+103,F,child,0.00,13
+103,M,child,0.00,13
+103,F,child,0.00,13
+103,M,child,0.00,13
+103,M,child,0.00,13
+103,F,child,0.00,13
+103,M,child,0.00,13
+103,M,child,0.00,12
+103,F,child,0.00,12
+103,M,child,0.00,12
+103,F,child,0.00,12
+103,M,child,0.00,12
+103,F,child,0.00,12
+103,M,child,0.00,12
+103,M,child,0.00,12
+103,F,child,0.00,11
+103,M,child,0.00,11
+103,M,child,0.00,11
+103,M,child,0.00,11
+103,F,child,0.00,11
+103,F,child,0.00,11
+103,F,child,0.00,11
+103,M,child,0.00,10
+103,M,child,0.00,10
+103,F,child,0.00,10
+103,F,child,0.00,10
+103,M,child,0.00,10
+103,M,child,0.00,10
+103,M,child,0.00,10
+103,M,child,0.00,9
+103,F,child,0.00,9
+103,M,child,0.00,9
+103,M,child,0.00,9
+103,F,child,0.00,9
+103,F,child,0.00,9
+103,F,child,0.00,9
+103,F,child,0.00,9
+103,M,child,0.00,9
+103,M,child,0.00,8
+103,M,child,0.00,8
+103,F,child,0.00,8
+103,F,child,0.00,8
+103,F,child,0.00,8
+103,F,child,0.00,8
+103,F,child,0.00,8
+103,M,child,0.00,8
+103,F,child,0.00,8
+103,F,child,0.00,7
+103,M,child,0.00,7
+103,F,child,0.00,7
+103,F,child,0.00,7
+103,M,child,0.00,7
+103,M,child,0.00,7
+103,M,child,0.00,7
+103,M,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,6
+103,F,child,0.00,5
+103,M,child,0.00,5
+103,F,child,0.00,5
+103,F,child,0.00,5
+103,F,child,0.00,5
+103,F,child,0.00,5
+103,F,child,0.00,5
+103,F,child,0.00,4
+103,M,child,0.00,4
+103,M,child,0.00,4
+103,F,child,0.00,4
+103,M,child,0.00,4
+103,F,child,0.00,4
+103,M,child,0.00,4
+103,M,child,0.00,3
+103,F,child,0.00,3
+103,F,child,0.00,3
+103,M,child,0.00,3
+103,M,child,0.00,3
+103,M,child,0.00,3
+103,M,child,0.00,3
+103,F,child,0.00,2
+103,F,child,0.00,2
+103,M,child,0.00,2
+103,F,child,0.00,2
+103,F,child,0.00,2
+103,M,child,0.00,2
+103,F,child,0.00,2
+103,F,child,0.00,2
+103,F,child,0.00,1
+103,F,child,0.00,1
+103,F,child,0.00,1
+103,F,child,0.00,1
+103,M,child,0.00,1
+103,F,child,0.00,1
+103,F,child,0.00,1
+103,M,child,0.00,1
+103,F,child,0.00,0
+103,F,child,0.00,0
+103,M,child,0.00,0
+103,F,child,0.00,0
+103,M,child,0.00,0
+103,M,child,0.00,0
+103,M,child,0.00,0
+104,X,retired,-1611.64,77
+104,F,retired,-1525.12,76
+104,F,retired,2118.43,75
+104,M,retired,1846.34,74
+104,M,retired,1617.23,74
+104,F,retired,1992.19,73
+104,M,retired,3842.81,73
+104,X,retired,5269.83,73
+104,M,retired,-1287.33,72
+104,F,retired,1998.60,72
+104,M,retired,-1252.03,72
+104,F,retired,1518.38,72
+104,F,retired,2107.46,72
+104,F,retired,4629.09,71
+104,M,retired,3946.13,71
+104,M,retired,3615.98,71
+104,M,retired,5005.29,71
+104,F,retired,-1152.43,71
+104,F,retired,-1152.32,71
+104,F,retired,4725.37,70
+104,M,retired,-1079.52,70
+104,M,retired,1847.13,70
+104,M,retired,-159.39,70
+104,M,retired,1902.49,69
+104,M,retired,4474.55,69
+104,F,retired,-1070.93,69
+104,M,retired,3440.39,68
+104,X,retired,4366.89,68
+104,M,retired,1793.20,68
+104,F,retired,3517.37,68
+104,F,retired,1713.88,68
+104,F,retired,1822.60,68
+104,M,retired,1355.36,68
+104,M,retired,1309.09,68
+104,F,retired,-971.22,68
+104,F,retired,3393.63,67
+104,M,retired,1486.15,67
+104,F,retired,4589.69,67
+104,M,retired,3521.96,67
+104,F,retired,750.18,67
+104,F,retired,3311.93,67
+104,M,retired,-924.30,67
+104,F,retired,1717.51,67
+104,F,retired,1662.40,67
+104,F,retired,1728.82,67
+104,M,retired,3522.78,67
+104,F,retired,3454.58,66
+104,M,retired,3620.08,66
+104,M,retired,3260.40,66
+104,F,retired,1441.35,66
+104,M,retired,1630.67,66
+104,F,retired,-909.93,66
+104,M,retired,4352.63,66
+104,F,retired,1424.64,66
+104,M,retired,-824.20,66
+104,F,retired,-847.33,66
+104,F,retired,1744.54,66
+104,M,retired,1349.53,65
+104,M,retired,1575.30,65
+104,F,retired,3233.46,65
+104,M,retired,1348.78,65
+104,M,retired,3182.95,65
+104,X,retired,1295.85,65
+104,F,retired,3278.48,65
+104,F,retired,1403.55,65
+104,M,retired,1383.06,65
+104,F,retired,3193.45,65
+104,F,craftsman,8548.40,64
+104,M,fisher,4054.40,64
+104,F,fisher,3978.75,64
+104,M,farmer,4078.88,64
+104,F,civil servant,11586.57,64
+104,F,service provider,11682.50,64
+104,F,craftsman,9256.14,64
+104,M,farmer,4033.80,64
+104,F,farmer,3861.21,63
+104,F,farmer,4011.54,63
+104,M,craftsman,8658.40,63
+104,F,civil servant,11087.01,63
+104,F,civil servant,10964.76,63
+104,F,service provider,10214.92,63
+104,F,homemaker,-745.78,63
+104,M,homemaker,-746.43,63
+104,M,fisher,3762.80,62
+104,F,farmer,3842.18,62
+104,M,farmer,3929.85,62
+104,M,service provider,10823.62,62
+104,M,homemaker,-718.75,62
+104,M,service provider,10410.59,62
+104,F,farmer,3939.65,62
+104,M,fisher,3657.28,61
+104,X,homemaker,-634.86,61
+104,F,homemaker,-682.20,61
+104,F,farmer,3920.08,61
+104,M,farmer,3583.41,61
+104,X,civil servant,10189.24,61
+104,M,fisher,3787.00,61
+104,F,craftsman,7753.69,61
+104,M,civil servant,9540.60,60
+104,F,craftsman,7675.69,60
+104,F,service provider,9514.83,60
+104,F,fisher,3642.81,60
+104,M,homemaker,-597.31,60
+104,F,fisher,3467.74,60
+104,F,fisher,3456.99,60
+104,M,fisher,3557.82,60
+104,F,craftsman,7517.19,59
+104,F,craftsman,7667.84,59
+104,M,fisher,3334.05,59
+104,F,farmer,3713.30,59
+104,M,craftsman,5756.11,59
+104,F,civil servant,9423.52,59
+104,F,service provider,10104.25,59
+104,M,farmer,3458.85,59
+104,M,farmer,3578.60,59
+104,F,civil servant,9997.98,59
+104,M,fisher,3485.18,58
+104,F,fisher,3271.68,58
+104,M,service provider,9894.33,58
+104,F,fisher,3465.09,58
+104,M,fisher,3296.93,58
+104,F,homemaker,-551.16,58
+104,M,craftsman,6957.79,58
+104,F,service provider,8968.39,58
+104,M,homemaker,-564.61,58
+104,M,craftsman,7335.71,57
+104,F,fisher,3417.27,57
+104,M,farmer,3381.15,57
+104,M,farmer,3385.23,57
+104,M,fisher,3158.66,57
+104,M,homemaker,-530.61,57
+104,M,fisher,3300.23,57
+104,M,civil servant,9618.27,57
+104,M,craftsman,7234.66,57
+104,F,civil servant,9269.50,56
+104,F,farmer,3079.17,56
+104,F,craftsman,6802.78,56
+104,M,unemployed,-472.66,56
+104,M,craftsman,7004.54,56
+104,M,civil servant,8741.00,56
+104,F,homemaker,-510.17,56
+104,F,fisher,2232.41,56
+104,F,homemaker,-474.35,55
+104,M,civil servant,8708.62,55
+104,F,unemployed,-440.22,55
+104,M,farmer,3329.78,55
+104,F,civil servant,8883.74,55
+104,F,homemaker,-468.58,55
+104,F,civil servant,8497.94,55
+104,M,service provider,8593.92,54
+104,M,farmer,3147.07,54
+104,F,craftsman,6958.56,54
+104,M,civil servant,8386.00,54
+104,M,craftsman,6783.80,54
+104,M,service provider,8258.73,54
+104,M,fisher,1710.88,53
+104,F,farmer,2891.72,53
+104,M,civil servant,8024.13,53
+104,F,farmer,3131.97,53
+104,M,farmer,3109.32,53
+104,M,service provider,8259.07,53
+104,M,service provider,8095.72,52
+104,M,fisher,2859.86,52
+104,F,farmer,2804.60,52
+104,X,unemployed,-359.30,52
+104,F,craftsman,6202.10,52
+104,F,farmer,2923.29,52
+104,M,craftsman,6129.91,52
+104,F,unemployed,-332.48,51
+104,F,fisher,2732.30,51
+104,M,homemaker,-326.29,51
+104,M,fisher,2782.00,51
+104,M,homemaker,-354.09,51
+104,F,craftsman,5831.08,51
+104,X,farmer,1925.73,51
+104,M,service provider,7389.36,50
+104,F,craftsman,6127.97,50
+104,M,craftsman,6100.37,50
+104,X,fisher,1872.28,50
+104,M,craftsman,5830.42,50
+104,F,farmer,2723.68,50
+104,M,fisher,2668.99,50
+104,F,craftsman,4279.68,50
+104,M,farmer,2835.42,50
+104,F,farmer,2613.80,49
+104,M,civil servant,7156.92,49
+104,F,service provider,7168.88,49
+104,F,service provider,7183.79,49
+104,M,craftsman,5761.28,49
+104,F,homemaker,-279.75,49
+104,X,unemployed,-283.98,49
+104,F,farmer,2681.28,48
+104,X,fisher,2421.56,48
+104,M,service provider,6733.37,48
+104,M,craftsman,5811.63,48
+104,F,fisher,1706.81,48
+104,F,farmer,2595.62,48
+104,F,farmer,2763.33,48
+104,F,farmer,2590.08,47
+104,F,homemaker,-239.36,47
+104,F,fisher,2349.02,47
+104,F,craftsman,5669.22,47
+104,M,fisher,2481.71,47
+104,F,service provider,6967.36,47
+104,M,farmer,2690.05,47
+104,M,farmer,2542.04,47
+104,M,fisher,1752.63,46
+104,M,civil servant,5172.96,46
+104,F,fisher,2331.37,46
+104,F,fisher,2385.19,46
+104,F,service provider,6548.73,46
+104,M,unemployed,-219.87,46
+104,M,service provider,6874.50,46
+104,F,homemaker,-196.25,45
+104,M,fisher,2259.99,45
+104,F,craftsman,5252.67,45
+104,X,unemployed,-182.84,45
+104,M,farmer,1821.20,45
+104,M,civil servant,6210.78,45
+104,F,civil servant,6069.04,44
+104,F,homemaker,-171.94,44
+104,M,farmer,2474.94,44
+104,M,fisher,1603.16,44
+104,M,service provider,5994.29,44
+104,M,unemployed,-163.28,44
+104,M,service provider,4872.70,44
+104,M,homemaker,-142.46,43
+104,M,civil servant,5965.08,43
+104,F,fisher,2226.75,43
+104,M,fisher,2261.77,43
+104,M,farmer,2340.78,43
+104,X,service provider,6225.58,43
+104,M,fisher,2112.42,42
+104,M,craftsman,4620.57,42
+104,F,civil servant,5974.40,42
+104,F,farmer,2314.59,42
+104,F,unemployed,-125.98,42
+104,F,fisher,2076.23,42
+104,F,unemployed,-114.50,41
+104,M,craftsman,3885.35,41
+104,F,farmer,2242.66,41
+104,M,fisher,2153.68,41
+104,M,homemaker,-114.67,41
+104,F,service provider,5751.22,41
+104,M,craftsman,4333.07,40
+104,M,craftsman,4398.44,40
+104,F,homemaker,-98.47,40
+104,X,unemployed,-98.60,40
+104,M,fisher,1923.44,40
+104,F,fisher,2028.36,40
+104,M,service provider,5820.88,40
+104,M,fisher,1956.74,40
+104,F,farmer,2068.74,39
+104,F,craftsman,3776.59,39
+104,X,homemaker,-83.31,39
+104,F,fisher,2037.03,39
+104,M,farmer,2157.55,39
+104,F,unemployed,-82.51,39
+104,M,fisher,1904.22,39
+104,M,service provider,5308.33,38
+104,M,farmer,1972.55,38
+104,F,unemployed,-64.83,38
+104,M,fisher,1905.50,38
+104,F,farmer,1987.88,38
+104,M,fisher,1478.34,38
+104,M,civil servant,5125.05,38
+104,M,unemployed,-63.37,38
+104,F,service provider,5336.19,37
+104,F,civil servant,4736.47,37
+104,M,fisher,1789.55,37
+104,F,homemaker,-47.02,37
+104,M,craftsman,4042.55,37
+104,F,service provider,4881.29,37
+104,M,farmer,1941.61,37
+104,M,homemaker,-33.17,36
+104,M,fisher,1829.85,36
+104,M,craftsman,3820.55,36
+104,F,craftsman,4051.05,36
+104,M,fisher,1852.47,36
+104,X,unemployed,-33.43,36
+104,F,service provider,5042.20,36
+104,M,homemaker,-20.17,35
+104,M,fisher,1690.69,35
+104,M,fisher,1440.98,35
+104,M,civil servant,4768.40,35
+104,F,civil servant,4899.87,35
+104,F,farmer,1774.27,35
+104,F,farmer,1922.58,35
+104,M,homemaker,-6.90,34
+104,M,service provider,4537.22,34
+104,M,civil servant,4613.89,34
+104,M,craftsman,3859.47,34
+104,M,farmer,1524.22,34
+104,M,fisher,1746.86,34
+104,M,farmer,1664.00,33
+104,M,fisher,1674.05,33
+104,F,unemployed,4.61,33
+104,F,fisher,1688.05,33
+104,F,fisher,1593.45,33
+104,F,craftsman,3322.91,33
+104,F,craftsman,3383.18,32
+104,M,civil servant,4141.67,32
+104,M,service provider,4171.10,32
+104,F,fisher,1532.50,32
+104,M,farmer,1761.33,32
+104,M,fisher,1599.08,32
+104,M,craftsman,3346.93,31
+104,M,farmer,1650.59,31
+104,M,craftsman,3384.11,31
+104,F,farmer,1677.72,31
+104,M,farmer,1667.42,31
+104,X,craftsman,3276.98,31
+104,M,fisher,1539.53,30
+104,F,homemaker,36.42,30
+104,F,unemployed,36.79,30
+104,F,civil servant,3864.38,30
+104,F,homemaker,45.40,29
+104,F,unemployed,42.57,29
+104,F,civil servant,3918.23,29
+104,F,unemployed,52.11,28
+104,M,fisher,1303.35,28
+104,M,farmer,1431.55,28
+104,M,craftsman,2884.38,28
+104,M,fisher,1281.10,27
+104,F,craftsman,2832.40,27
+104,F,fisher,1307.56,27
+104,F,farmer,1402.93,27
+104,F,craftsman,2806.34,27
+104,M,homemaker,68.18,26
+104,M,civil servant,3533.14,26
+104,M,fisher,1147.86,26
+104,F,service provider,3579.14,26
+104,X,service provider,3165.10,25
+104,M,homemaker,70.72,25
+104,F,service provider,3261.13,25
+104,F,farmer,1312.38,24
+104,M,homemaker,79.70,24
+104,M,fisher,1174.67,24
+104,F,craftsman,2394.19,23
+104,F,farmer,1212.12,23
+104,F,fisher,1112.78,23
+104,X,farmer,1146.78,22
+104,F,farmer,1163.77,22
+104,F,civil servant,2784.00,22
+104,F,unemployed,88.88,22
+104,F,farmer,1113.18,21
+104,F,farmer,1097.29,21
+104,F,fisher,1005.02,21
+104,F,craftsman,2293.48,21
+104,M,fisher,1093.92,21
+104,M,farmer,1177.97,21
+104,F,craftsman,2157.39,20
+104,F,farmer,1043.01,20
+104,M,civil servant,2577.02,20
+104,F,service provider,2755.12,20
+104,M,farmer,1064.87,20
+104,M,service provider,2611.08,20
+104,M,homemaker,90.23,20
+104,F,service provider,2496.62,19
+104,M,fisher,960.46,19
+104,F,fisher,914.55,19
+104,M,fisher,952.59,19
+104,F,service provider,2600.04,19
+104,M,craftsman,2119.71,19
+104,M,service provider,2414.15,18
+104,F,homemaker,96.87,18
+104,F,craftsman,1989.18,18
+104,M,farmer,966.39,18
+104,F,farmer,1016.68,18
+104,F,farmer,1009.30,18
+104,M,craftsman,2082.04,18
+104,F,child,0.00,17
+104,M,child,0.00,17
+104,M,child,0.00,17
+104,F,child,0.00,17
+104,M,child,0.00,17
+104,M,child,0.00,17
+104,F,child,0.00,17
+104,F,child,0.00,16
+104,M,child,0.00,16
+104,F,child,0.00,16
+104,F,child,0.00,16
+104,F,child,0.00,16
+104,F,child,0.00,16
+104,F,child,0.00,16
+104,F,child,0.00,15
+104,F,child,0.00,15
+104,M,child,0.00,15
+104,M,child,0.00,15
+104,F,child,0.00,15
+104,F,child,0.00,15
+104,X,child,0.00,15
+104,M,child,0.00,15
+104,F,child,0.00,14
+104,M,child,0.00,14
+104,F,child,0.00,14
+104,M,child,0.00,14
+104,M,child,0.00,14
+104,F,child,0.00,14
+104,M,child,0.00,14
+104,M,child,0.00,13
+104,F,child,0.00,13
+104,M,child,0.00,13
+104,F,child,0.00,13
+104,M,child,0.00,13
+104,F,child,0.00,13
+104,M,child,0.00,13
+104,M,child,0.00,13
+104,F,child,0.00,12
+104,M,child,0.00,12
+104,M,child,0.00,12
+104,M,child,0.00,12
+104,F,child,0.00,12
+104,F,child,0.00,12
+104,F,child,0.00,12
+104,M,child,0.00,11
+104,M,child,0.00,11
+104,F,child,0.00,11
+104,F,child,0.00,11
+104,M,child,0.00,11
+104,M,child,0.00,11
+104,M,child,0.00,11
+104,M,child,0.00,10
+104,F,child,0.00,10
+104,M,child,0.00,10
+104,M,child,0.00,10
+104,F,child,0.00,10
+104,F,child,0.00,10
+104,F,child,0.00,10
+104,F,child,0.00,10
+104,M,child,0.00,10
+104,M,child,0.00,9
+104,M,child,0.00,9
+104,F,child,0.00,9
+104,F,child,0.00,9
+104,F,child,0.00,9
+104,F,child,0.00,9
+104,F,child,0.00,9
+104,M,child,0.00,9
+104,F,child,0.00,9
+104,F,child,0.00,8
+104,M,child,0.00,8
+104,F,child,0.00,8
+104,F,child,0.00,8
+104,M,child,0.00,8
+104,M,child,0.00,8
+104,M,child,0.00,8
+104,M,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,7
+104,F,child,0.00,6
+104,M,child,0.00,6
+104,F,child,0.00,6
+104,F,child,0.00,6
+104,F,child,0.00,6
+104,F,child,0.00,6
+104,F,child,0.00,6
+104,F,child,0.00,5
+104,M,child,0.00,5
+104,M,child,0.00,5
+104,F,child,0.00,5
+104,M,child,0.00,5
+104,F,child,0.00,5
+104,M,child,0.00,5
+104,M,child,0.00,4
+104,F,child,0.00,4
+104,F,child,0.00,4
+104,M,child,0.00,4
+104,M,child,0.00,4
+104,M,child,0.00,4
+104,M,child,0.00,4
+104,F,child,0.00,3
+104,F,child,0.00,3
+104,M,child,0.00,3
+104,F,child,0.00,3
+104,F,child,0.00,3
+104,M,child,0.00,3
+104,F,child,0.00,3
+104,F,child,0.00,3
+104,F,child,0.00,2
+104,F,child,0.00,2
+104,F,child,0.00,2
+104,F,child,0.00,2
+104,M,child,0.00,2
+104,F,child,0.00,2
+104,F,child,0.00,2
+104,M,child,0.00,2
+104,F,child,0.00,1
+104,F,child,0.00,1
+104,M,child,0.00,1
+104,F,child,0.00,1
+104,M,child,0.00,1
+104,M,child,0.00,1
+104,M,child,0.00,1
+104,F,child,0.00,0
+104,M,child,0.00,0
+104,M,child,0.00,0
+104,M,child,0.00,0
+104,M,child,0.00,0
+104,M,child,0.00,0
+105,F,retired,-1608.27,77
+105,F,retired,2129.58,76
+105,M,retired,2031.26,75
+105,M,retired,1718.39,75
+105,F,retired,2105.06,74
+105,M,retired,4032.33,74
+105,X,retired,5186.99,74
+105,F,retired,2131.82,73
+105,F,retired,1558.02,73
+105,F,retired,2059.99,73
+105,F,retired,5211.72,72
+105,M,retired,3957.73,72
+105,M,retired,5096.86,72
+105,F,retired,-1202.45,72
+105,F,retired,4923.69,71
+105,M,retired,-1129.11,71
+105,M,retired,1837.13,71
+105,M,retired,-186.06,71
+105,M,retired,1910.52,70
+105,M,retired,4576.58,70
+105,F,retired,-1142.87,70
+105,M,retired,3716.04,69
+105,M,retired,1779.91,69
+105,F,retired,3462.63,69
+105,F,retired,1822.44,69
+105,F,retired,1896.65,69
+105,M,retired,1333.57,69
+105,M,retired,1384.21,69
+105,F,retired,-1039.40,69
+105,F,retired,3297.91,68
+105,M,retired,1535.61,68
+105,F,retired,4527.81,68
+105,M,retired,3324.21,68
+105,F,retired,737.08,68
+105,F,retired,3432.05,68
+105,M,retired,-937.94,68
+105,F,retired,1755.56,68
+105,F,retired,1846.28,68
+105,F,retired,1736.10,68
+105,F,retired,3356.29,67
+105,M,retired,3507.28,67
+105,M,retired,3540.04,67
+105,F,retired,1470.35,67
+105,M,retired,1804.94,67
+105,F,retired,-894.87,67
+105,M,retired,4586.90,67
+105,F,retired,1487.51,67
+105,M,retired,-936.92,67
+105,F,retired,-955.04,67
+105,F,retired,1787.29,67
+105,M,retired,1331.02,66
+105,M,retired,1599.25,66
+105,F,retired,3426.94,66
+105,M,retired,1399.25,66
+105,M,retired,3268.86,66
+105,X,retired,1444.15,66
+105,F,retired,3346.28,66
+105,F,retired,1430.89,66
+105,M,retired,1443.96,66
+105,F,retired,3274.60,66
+105,F,retired,3190.58,65
+105,M,retired,1697.84,65
+105,F,retired,1553.63,65
+105,M,retired,1358.84,65
+105,F,retired,4264.53,65
+105,F,retired,4146.09,65
+105,F,retired,3317.11,65
+105,M,retired,1422.64,65
+105,F,farmer,3967.12,64
+105,F,farmer,3947.58,64
+105,M,craftsman,9258.08,64
+105,F,civil servant,11132.07,64
+105,F,civil servant,10837.75,64
+105,F,service provider,10184.16,64
+105,F,homemaker,-752.74,64
+105,M,homemaker,-762.37,64
+105,M,fisher,3739.18,63
+105,F,farmer,4066.97,63
+105,M,farmer,4065.93,63
+105,M,service provider,11341.31,63
+105,M,fisher,1787.08,63
+105,M,service provider,11111.36,63
+105,F,farmer,3979.26,63
+105,M,fisher,3766.02,62
+105,X,fisher,1677.05,62
+105,F,homemaker,-691.03,62
+105,F,farmer,3842.39,62
+105,M,farmer,4055.76,62
+105,X,civil servant,10941.40,62
+105,M,fisher,3783.41,62
+105,F,craftsman,8385.29,62
+105,M,civil servant,10269.77,61
+105,F,craftsman,8165.91,61
+105,F,service provider,9909.45,61
+105,F,fisher,3591.48,61
+105,M,homemaker,-671.81,61
+105,F,fisher,3828.84,61
+105,F,fisher,3843.71,61
+105,M,fisher,3555.02,61
+105,F,craftsman,8157.26,60
+105,F,craftsman,7691.83,60
+105,M,fisher,3449.26,60
+105,F,farmer,3708.68,60
+105,M,craftsman,6032.27,60
+105,F,civil servant,9715.68,60
+105,F,service provider,9791.82,60
+105,M,farmer,3547.40,60
+105,M,farmer,3642.71,60
+105,F,civil servant,10144.37,60
+105,M,fisher,3535.90,59
+105,F,fisher,3500.32,59
+105,M,service provider,10156.21,59
+105,F,fisher,3606.34,59
+105,M,fisher,3484.70,59
+105,F,homemaker,-582.21,59
+105,M,craftsman,7269.61,59
+105,F,service provider,9706.74,59
+105,M,homemaker,-585.24,59
+105,M,craftsman,7569.55,58
+105,F,fisher,3372.74,58
+105,M,farmer,3370.42,58
+105,M,farmer,3523.49,58
+105,M,fisher,3433.39,58
+105,M,homemaker,-543.24,58
+105,M,fisher,3540.52,58
+105,M,civil servant,9687.48,58
+105,M,craftsman,7282.77,58
+105,F,civil servant,9062.54,57
+105,F,farmer,3253.62,57
+105,F,craftsman,7282.84,57
+105,M,unemployed,-517.54,57
+105,M,craftsman,7627.01,57
+105,M,civil servant,9276.00,57
+105,F,homemaker,-516.40,57
+105,F,fisher,2380.55,57
+105,F,homemaker,-493.77,56
+105,M,civil servant,8778.23,56
+105,F,service provider,6076.32,56
+105,M,farmer,3506.73,56
+105,F,civil servant,8987.60,56
+105,F,homemaker,-476.19,56
+105,F,civil servant,8851.33,56
+105,M,service provider,8325.51,55
+105,M,farmer,3293.82,55
+105,F,craftsman,6601.57,55
+105,M,civil servant,8407.06,55
+105,M,craftsman,6774.84,55
+105,M,service provider,8696.16,55
+105,M,fisher,1833.01,54
+105,F,farmer,3104.91,54
+105,M,civil servant,8154.01,54
+105,F,farmer,3054.82,54
+105,M,farmer,3260.83,54
+105,M,service provider,8517.36,54
+105,M,service provider,8204.55,53
+105,M,fisher,2845.00,53
+105,F,farmer,2964.88,53
+105,X,fisher,1639.96,53
+105,F,craftsman,6568.48,53
+105,F,farmer,2986.85,53
+105,M,craftsman,6764.21,53
+105,F,unemployed,-358.23,52
+105,F,fisher,2935.34,52
+105,M,homemaker,-386.22,52
+105,M,fisher,2928.38,52
+105,M,homemaker,-376.86,52
+105,F,craftsman,6115.37,52
+105,X,farmer,2180.02,52
+105,M,service provider,7891.02,51
+105,F,craftsman,5903.01,51
+105,M,craftsman,6064.05,51
+105,X,fisher,1893.58,51
+105,M,craftsman,5950.56,51
+105,F,farmer,2817.24,51
+105,M,fisher,2646.10,51
+105,F,craftsman,4234.07,51
+105,M,farmer,2935.20,51
+105,F,farmer,2751.76,50
+105,M,civil servant,7186.88,50
+105,F,service provider,7150.87,50
+105,F,service provider,7170.89,50
+105,M,craftsman,5934.97,50
+105,F,homemaker,-315.95,50
+105,X,unemployed,-326.44,50
+105,F,farmer,2701.20,49
+105,X,fisher,2553.21,49
+105,M,service provider,6977.51,49
+105,M,craftsman,5888.24,49
+105,F,fisher,1783.96,49
+105,F,farmer,2646.61,49
+105,F,farmer,2657.20,49
+105,F,farmer,2810.46,48
+105,F,service provider,5441.50,48
+105,F,fisher,2482.19,48
+105,F,craftsman,5779.50,48
+105,M,fisher,2598.67,48
+105,F,service provider,6858.03,48
+105,M,farmer,2669.85,48
+105,M,farmer,2779.94,48
+105,M,fisher,1859.73,47
+105,M,civil servant,5354.88,47
+105,F,fisher,2417.93,47
+105,F,fisher,2450.99,47
+105,F,service provider,6799.46,47
+105,M,unemployed,-229.72,47
+105,M,service provider,6680.04,47
+105,F,homemaker,-203.46,46
+105,M,fisher,2304.55,46
+105,F,craftsman,5554.34,46
+105,X,unemployed,-215.78,46
+105,M,farmer,1959.08,46
+105,M,civil servant,6365.77,46
+105,F,civil servant,6399.41,45
+105,F,homemaker,-187.23,45
+105,M,farmer,2413.79,45
+105,M,fisher,1720.17,45
+105,M,service provider,6772.31,45
+105,M,unemployed,-187.78,45
+105,M,service provider,5091.95,45
+105,M,homemaker,-163.73,44
+105,M,civil servant,6000.72,44
+105,F,fisher,2244.43,44
+105,M,fisher,2253.61,44
+105,M,farmer,2353.06,44
+105,X,service provider,6049.89,44
+105,M,fisher,2185.04,43
+105,M,craftsman,4971.15,43
+105,F,civil servant,6353.74,43
+105,F,farmer,2451.36,43
+105,F,unemployed,-152.35,43
+105,F,fisher,2248.83,43
+105,F,unemployed,-136.53,42
+105,M,craftsman,3788.86,42
+105,F,farmer,2298.41,42
+105,M,fisher,2217.68,42
+105,M,homemaker,-135.42,42
+105,F,service provider,6182.36,42
+105,M,craftsman,4663.10,41
+105,M,craftsman,4716.70,41
+105,F,homemaker,-116.39,41
+105,X,unemployed,-108.87,41
+105,M,fisher,2160.77,41
+105,F,fisher,2025.37,41
+105,M,service provider,6010.85,41
+105,M,fisher,1981.19,41
+105,F,farmer,2124.55,40
+105,F,craftsman,3803.12,40
+105,X,homemaker,-93.76,40
+105,F,fisher,2058.95,40
+105,M,farmer,2140.26,40
+105,F,unemployed,-93.68,40
+105,M,fisher,1989.54,40
+105,M,service provider,5255.31,39
+105,M,farmer,2207.68,39
+105,F,unemployed,-78.41,39
+105,M,fisher,2027.15,39
+105,F,farmer,2114.53,39
+105,M,fisher,1629.98,39
+105,M,civil servant,5536.32,39
+105,M,civil servant,4303.69,39
+105,F,service provider,5202.03,38
+105,F,civil servant,4999.78,38
+105,M,fisher,1850.43,38
+105,F,homemaker,-62.89,38
+105,M,craftsman,4221.33,38
+105,F,service provider,5218.08,38
+105,M,farmer,2129.52,38
+105,M,homemaker,-44.53,37
+105,M,fisher,1759.90,37
+105,M,craftsman,4276.02,37
+105,F,craftsman,3910.72,37
+105,M,fisher,1829.80,37
+105,X,unemployed,-44.84,37
+105,F,service provider,4842.37,37
+105,M,homemaker,-33.54,36
+105,M,fisher,1692.31,36
+105,M,fisher,1409.71,36
+105,M,civil servant,4737.80,36
+105,F,civil servant,4780.96,36
+105,F,farmer,1889.53,36
+105,F,farmer,1868.75,36
+105,M,homemaker,-19.06,35
+105,M,service provider,4836.60,35
+105,M,civil servant,4747.68,35
+105,M,craftsman,3642.70,35
+105,M,farmer,1589.78,35
+105,M,fisher,1687.25,35
+105,M,farmer,1847.81,34
+105,M,fisher,1641.21,34
+105,F,unemployed,-6.05,34
+105,F,fisher,1590.55,34
+105,F,fisher,1676.50,34
+105,F,craftsman,3373.71,34
+105,F,craftsman,3708.51,33
+105,M,civil servant,4649.97,33
+105,M,service provider,4635.91,33
+105,F,fisher,1579.89,33
+105,M,farmer,1711.36,33
+105,M,fisher,1598.33,33
+105,M,craftsman,3308.95,32
+105,M,farmer,1789.10,32
+105,M,craftsman,3444.92,32
+105,F,farmer,1777.83,32
+105,M,farmer,1660.49,32
+105,X,craftsman,3391.18,32
+105,M,fisher,1454.44,31
+105,F,homemaker,26.47,31
+105,F,unemployed,26.26,31
+105,F,civil servant,4351.92,31
+105,F,homemaker,37.74,30
+105,F,unemployed,35.77,30
+105,F,civil servant,4222.03,30
+105,F,unemployed,44.31,29
+105,M,fisher,1395.36,29
+105,M,farmer,1554.02,29
+105,M,craftsman,2908.16,29
+105,M,fisher,1397.08,28
+105,F,craftsman,2906.93,28
+105,F,fisher,1325.88,28
+105,F,farmer,1564.73,28
+105,F,craftsman,3054.44,28
+105,M,homemaker,62.45,27
+105,M,civil servant,3472.82,27
+105,M,fisher,1192.46,27
+105,F,service provider,3456.43,27
+105,X,service provider,3503.66,26
+105,M,homemaker,63.75,26
+105,F,service provider,3477.82,26
+105,F,farmer,1420.13,25
+105,M,homemaker,71.58,25
+105,M,fisher,1237.81,25
+105,F,craftsman,2547.17,24
+105,F,farmer,1262.71,24
+105,F,fisher,1150.97,24
+105,X,farmer,1266.84,23
+105,F,farmer,1245.60,23
+105,F,civil servant,2919.82,23
+105,F,unemployed,82.54,23
+105,F,farmer,1186.71,22
+105,F,farmer,1190.81,22
+105,F,fisher,1115.32,22
+105,F,craftsman,2321.64,22
+105,M,fisher,1135.72,22
+105,M,farmer,1242.96,22
+105,F,craftsman,2233.44,21
+105,F,farmer,1197.34,21
+105,M,civil servant,2692.89,21
+105,F,service provider,2700.40,21
+105,M,farmer,1142.88,21
+105,M,service provider,2923.62,21
+105,M,homemaker,90.64,21
+105,F,service provider,2632.21,20
+105,M,fisher,1048.93,20
+105,F,fisher,1043.21,20
+105,M,fisher,960.95,20
+105,F,service provider,2635.48,20
+105,M,craftsman,2225.97,20
+105,M,service provider,2625.71,19
+105,F,homemaker,96.21,19
+105,F,craftsman,2118.63,19
+105,M,farmer,1095.88,19
+105,F,farmer,1016.52,19
+105,F,farmer,1068.26,19
+105,M,craftsman,2111.96,19
+105,F,civil servant,2504.33,18
+105,M,service provider,2488.92,18
+105,M,civil servant,2425.84,18
+105,F,homemaker,95.55,18
+105,M,homemaker,90.38,18
+105,M,farmer,1038.99,18
+105,F,civil servant,2585.33,18
+105,F,child,0.00,17
+105,M,child,0.00,17
+105,F,child,0.00,17
+105,F,child,0.00,17
+105,F,child,0.00,17
+105,F,child,0.00,17
+105,F,child,0.00,17
+105,F,child,0.00,16
+105,F,child,0.00,16
+105,M,child,0.00,16
+105,M,child,0.00,16
+105,F,child,0.00,16
+105,F,child,0.00,16
+105,X,child,0.00,16
+105,M,child,0.00,16
+105,F,child,0.00,15
+105,M,child,0.00,15
+105,F,child,0.00,15
+105,M,child,0.00,15
+105,M,child,0.00,15
+105,F,child,0.00,15
+105,M,child,0.00,15
+105,M,child,0.00,14
+105,F,child,0.00,14
+105,M,child,0.00,14
+105,F,child,0.00,14
+105,M,child,0.00,14
+105,F,child,0.00,14
+105,M,child,0.00,14
+105,M,child,0.00,14
+105,F,child,0.00,13
+105,M,child,0.00,13
+105,M,child,0.00,13
+105,M,child,0.00,13
+105,F,child,0.00,13
+105,F,child,0.00,13
+105,F,child,0.00,13
+105,M,child,0.00,12
+105,M,child,0.00,12
+105,F,child,0.00,12
+105,F,child,0.00,12
+105,M,child,0.00,12
+105,M,child,0.00,12
+105,M,child,0.00,12
+105,M,child,0.00,11
+105,F,child,0.00,11
+105,M,child,0.00,11
+105,M,child,0.00,11
+105,F,child,0.00,11
+105,F,child,0.00,11
+105,F,child,0.00,11
+105,F,child,0.00,11
+105,M,child,0.00,11
+105,M,child,0.00,10
+105,M,child,0.00,10
+105,F,child,0.00,10
+105,F,child,0.00,10
+105,F,child,0.00,10
+105,F,child,0.00,10
+105,F,child,0.00,10
+105,M,child,0.00,10
+105,F,child,0.00,10
+105,F,child,0.00,9
+105,M,child,0.00,9
+105,F,child,0.00,9
+105,F,child,0.00,9
+105,M,child,0.00,9
+105,M,child,0.00,9
+105,M,child,0.00,9
+105,M,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,8
+105,F,child,0.00,7
+105,M,child,0.00,7
+105,F,child,0.00,7
+105,F,child,0.00,7
+105,F,child,0.00,7
+105,F,child,0.00,7
+105,F,child,0.00,7
+105,F,child,0.00,6
+105,M,child,0.00,6
+105,M,child,0.00,6
+105,F,child,0.00,6
+105,M,child,0.00,6
+105,F,child,0.00,6
+105,M,child,0.00,6
+105,M,child,0.00,5
+105,F,child,0.00,5
+105,F,child,0.00,5
+105,M,child,0.00,5
+105,M,child,0.00,5
+105,M,child,0.00,5
+105,M,child,0.00,5
+105,F,child,0.00,4
+105,F,child,0.00,4
+105,M,child,0.00,4
+105,F,child,0.00,4
+105,F,child,0.00,4
+105,M,child,0.00,4
+105,F,child,0.00,4
+105,F,child,0.00,4
+105,F,child,0.00,3
+105,F,child,0.00,3
+105,F,child,0.00,3
+105,F,child,0.00,3
+105,M,child,0.00,3
+105,F,child,0.00,3
+105,F,child,0.00,3
+105,M,child,0.00,3
+105,F,child,0.00,2
+105,F,child,0.00,2
+105,M,child,0.00,2
+105,F,child,0.00,2
+105,M,child,0.00,2
+105,M,child,0.00,2
+105,M,child,0.00,2
+105,F,child,0.00,1
+105,M,child,0.00,1
+105,M,child,0.00,1
+105,M,child,0.00,1
+105,M,child,0.00,1
+105,M,child,0.00,1
+105,F,child,0.00,0
+105,F,child,0.00,0
+105,F,child,0.00,0
+105,M,child,0.00,0
+105,M,child,0.00,0
+105,M,child,0.00,0
+105,X,child,0.00,0

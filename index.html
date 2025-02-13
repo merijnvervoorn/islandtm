@@ -2,126 +2,245 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ISLAND™ Government</title>
+  <!-- Favicon using the small logo -->
+  <link rel="icon" type="image/png" href="logo_small.png" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <!-- Header with left‑aligned, enlarged full logo and streamlined navigation -->
   <header>
-    <div class="header-logo">
-      <h1>ISLAND™ Government</h1>
+    <div class="header-container">
+      <img src="logo_full.png" alt="ISLAND™ Full Logo" class="logo-full" />
+      <nav class="main-nav">
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#policies">Policies</a></li>
+          <li><a href="#initiatives">Key Initiatives</a></li>
+          <li><a href="#ministers">Ministers</a></li>
+          <li><a href="#community">Community</a></li>
+          <li><a href="#citizen-info">Citizen Info</a></li>
+          <li><a href="#legal">Legal</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
     </div>
-    <nav class="main-nav">
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#policies">Policies</a></li>
-        <li><a href="#programs">Programs</a></li>
-        <li><a href="#community">Community</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
   </header>
 
-  <!-- Hero Section -->
+  <!-- Hero Section with a parallax-style island background -->
   <section id="home" class="hero">
-    <img src="island.jpg" alt="Aerial view of ISLAND™" class="island-image" />
+    <div class="hero-overlay"></div>
     <div class="hero-text">
-      <h2>Welcome to ISLAND™</h2>
+      <h1>Welcome to the official ISLAND™ Government website</h1>
       <p>
-        We are committed to fostering a vibrant, sustainable future for all citizens. 
-        Discover our initiatives, policies, and community programs below.
+        ISLAND™ is a testament to innovation, resilience, and community-driven growth. With forward-thinking policies and a united spirit, we continue to build a thriving, sustainable future.
       </p>
     </div>
   </section>
 
   <!-- Policies Section -->
-  <section id="policies" class="section">
+  <section id="policies" class="section fade-in">
     <h2>Our Policies</h2>
-    <div class="policy-container">
-      <article class="policy">
-        <h3>Green Energy</h3>
-        <p>
-          ISLAND™ is dedicated to sustainable development. Our new regulations
-          encourage the use of solar panels to reduce our carbon footprint and 
-          ensure a cleaner environment.
-        </p>
-      </article>
-      <article class="policy">
-        <h3>Employment Support</h3>
-        <p>
-          We believe in empowering every individual to thrive. That’s why we offer
-          a range of training programmes for unemployed citizens to help them gain
-          valuable skills and secure meaningful work.
-        </p>
-      </article>
-      <article class="policy">
-        <h3>Encouraging Homemakers</h3>
-        <p>
-          Homemakers are encouraged to explore flexible work opportunities and 
-          training, ensuring everyone has a pathway to personal and professional 
-          growth.
-        </p>
-      </article>
+    <p>
+      At ISLAND™, our government is devoted to ensuring a prosperous future for every citizen. Our policies focus on environmental sustainability, economic empowerment, and active community engagement. We provide the information you want and the details you deserve.
+    </p>
+  </section>
+
+  <!-- New Box linking to anthem.html -->
+<section id="anthem-link" class="section fade-in">
+  <h2>Listen to the National Anthem</h2>
+  <div class="anthem-box">
+    <a href="anthem.html" class="anthem-link">
+      <img src="flag.png" alt="Flag of ISLAND™" class="anthem-flag" />
+      <p>Listen to the official ISLAND™ National Anthem</p>
+    </a>
+  </div>
+</section>
+
+
+   <!-- Course Section - Link to the Language Course -->
+   <section id="course-section" class="section fade-in">
+    <h2>Learn Tāmorék: Language Course</h2>
+    <p>
+      Are you interested in learning Tāmorék, the language of ISLAND™? Our free online language course is designed to help you communicate effectively in daily situations and become part of our thriving community.
+    </p>
+
+    <div class="anthem-box">
+      <a href="course.html" class="anthem-link">
+        <p>Start Learning Today</p>
+      </a>
     </div>
   </section>
 
-  <!-- Programs Section -->
-  <section id="programs" class="section">
-    <h2>Training & Development Programs</h2>
+  <!-- Key Initiatives Section -->
+  <section id="initiatives" class="section fade-in">
+    <h2>Key Initiatives</h2>
+    <div class="initiatives-container">
+      <!-- Initiative: Green Energy -->
+      <div class="initiative-box">
+        <h3>Green Energy &amp; Solar Panels</h3>
+        <p>
+          We champion renewable energy by promoting the installation of solar panels across the island. This initiative reduces our carbon footprint, lowers energy costs, and nurtures a cleaner, greener environment.
+        </p>
+      </div>
+      <!-- Initiative: Training Programmes -->
+      <div class="initiative-box">
+        <h3>Training Programmes for the Unemployed</h3>
+        <p>
+          Our extensive training programmes offer job readiness, vocational skills, and personal development courses to empower citizens and prepare them for emerging opportunities.
+        </p>
+      </div>
+      <!-- Initiative: Homemaker Empowerment -->
+      <div class="initiative-box">
+        <h3>Empowering Homemakers</h3>
+        <p>
+          With flexible work initiatives and specialized training, homemakers are encouraged to step into professional roles, ensuring personal growth and financial independence.
+        </p>
+      </div>
+      <!-- Initiative: Community Centre -->
+      <div class="initiative-box">
+        <h3>Community Centre</h3>
+        <p>
+          Our vibrant community centre is the heart of local events, cultural gatherings, and public forums, fostering collaboration and civic pride.
+        </p>
+      </div>
+      <!-- Initiative: Sports Centre -->
+      <div class="initiative-box">
+        <h3>Sports Centre</h3>
+        <p>
+          Equipped with state‑of‑the‑art facilities, our sports centre promotes health, teamwork, and active lifestyles with regular tournaments and fitness events.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Ministers Section -->
+  <section id="ministers" class="section fade-in">
+    <h2>Our Esteemed Ministers</h2>
     <p>
-      ISLAND™ invests in comprehensive training and development programs aimed at 
-      improving the employability of all citizens. From technical workshops to 
-      creative skill-building sessions, our programs are designed to nurture a 
-      dynamic workforce.
+      Our island flourishes under the expert guidance of our ministers. Their commitment and visionary leadership are the bedrock of our success.
     </p>
-    <ul class="program-list">
-      <li>Job Readiness Training</li>
-      <li>Vocational Skill Workshops</li>
-      <li>Entrepreneurship Incubators</li>
-      <li>Technology & Innovation Seminars</li>
-    </ul>
+    <div class="ministers-container">
+      <div class="minister">
+        <h3>Merijn</h3>
+        <p><strong>Prime Minister of the Trademark™</strong></p>
+        <p>Leading the charge to ensure ISLAND™ remains the gold standard in governance, innovation, and economic forecasting, Merijn secures our national brand for future generations.</p>
+      </div>
+      <div class="minister">
+        <h3>Jacco</h3>
+        <p><strong>Ministry of Education and Careers</strong></p>
+        <p>Jacco oversees numerous training programs to empower citizens, foster lifelong learning, and ensure sustainable career growth across the island.</p>
+      </div>
+      <div class="minister">
+        <h3>Dodo</h3>
+        <p><strong>Ministry of Wellbeing and Agriculture</strong></p>
+        <p>Dodo champions the physical, mental, and social health of all citizens while supporting sustainable agricultural practices for food security and prosperity.</p>
+      </div>
+      <div class="minister">
+        <h3>Diogo</h3>
+        <p><strong>Ministry of Technology and AI</strong></p>
+        <p>Diogo is driving technological advancements and innovative AI solutions to keep ISLAND™ at the forefront of digital transformation.</p>
+      </div>
+      <div class="minister">
+        <h3>Viggo</h3>
+        <p><strong>Ministry of Defense</strong></p>
+        <p>Viggo ensures ISLAND™'s security through strategic planning and national defense measures, protecting its people and resources from external threats.</p>
+      </div>
+      <div class="minister">
+        <h3>Yujia</h3>
+        <p><strong>Ministry of Green Energy and Innovations</strong></p>
+        <p>Yujia leads ISLAND™'s ambitious green energy initiatives and fosters innovation to build a cleaner, sustainable future for all.</p>
+      </div>
+    </div>
   </section>
 
   <!-- Community Section -->
-  <section id="community" class="section">
-    <h2>Community Facilities</h2>
-    <div class="facilities">
-      <article class="facility">
-        <h3>Community Centre</h3>
+  <section id="community" class="section fade-in">
+    <h2>Community &amp; Social Initiatives</h2>
+    <p>
+      ISLAND™ thrives on the energy and unity of its citizens. Our community initiatives foster inclusivity, creativity, and social well‑being. Join us for public forums, cultural celebrations, and community service projects that bring us closer together.
+    </p>
+  </section>
+
+  <!-- Citizen Information Section -->
+  <section id="citizen-info" class="section fade-in">
+    <h2>Citizen Information</h2>
+    <div class="citizen-info-container">
+      <!-- Trash Pickup Dates -->
+      <div class="info-box">
+        <h3>Trash Pickup Dates</h3>
         <p>
-          A hub for social gatherings, cultural events, and educational activities. 
-          Residents are encouraged to utilize the space for community-led projects 
-          and programs.
+          Our waste management team ensures that trash pickup occurs every Monday and Thursday at 7:00 AM. Please place your bins at the curb by 6:30 PM the previous evening.
         </p>
-      </article>
-      <article class="facility">
-        <h3>Sports Centre</h3>
+      </div>
+      <!-- Community Events -->
+      <div class="info-box">
+        <h3>Community Events</h3>
         <p>
-          Our modern sports centre is open to citizens of all ages, offering 
-          facilities for fitness, team sports, and recreational activities to 
-          promote a healthy lifestyle.
+          Enjoy weekly community gatherings, cultural festivals, and public forums designed to strengthen our bonds and celebrate our diversity. Check the community calendar for upcoming events.
         </p>
-      </article>
+      </div>
+      <!-- Sports Events -->
+      <div class="info-box">
+        <h3>Sports Events</h3>
+        <p>
+          From local tournaments to family sports days, our sports centre hosts regular events for athletes and enthusiasts alike. Stay tuned for the latest schedules.
+        </p>
+      </div>
+      <!-- Training Dates -->
+      <div class="info-box">
+        <h3>Training Dates</h3>
+        <p>
+          Our training programmes for the unemployed and homemakers run every Tuesday, Thursday, and Saturday. Register online to secure your place and boost your career prospects.
+        </p>
+      </div>
+      <!-- Additional Announcements -->
+      <div class="info-box">
+        <h3>Additional Announcements</h3>
+        <p>
+          Stay informed with updates on public services, outreach programs, and other vital information. We’re committed to keeping you connected and empowered.
+        </p>
+      </div>
     </div>
   </section>
 
-  <!-- Contact Section -->
-  <section id="contact" class="section contact-section">
-    <h2>Contact & Additional Information</h2>
+  <!-- Legal & Credits Section -->
+  <section id="legal" class="section fade-in">
+    <h2>Legal &amp; Credits</h2>
     <p>
-      For further information, assistance, or any inquiries, please reach out to 
-      our support desk or visit our offices.
+      ISLAND™ is a registered trademark—yes, the ™ is totally intentional! All rights reserved. This website is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Our work is proudly powered by the latest in Computational Social Science (with a few puns thrown in for good measure).
+    </p>
+    <p>
+      Disclaimer: Any spontaneous outbursts of patriotism or laughter are entirely your own responsibility.
+    </p>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section fade-in">
+    <h2>Contact &amp; Information</h2>
+    <p>
+      For further information, support, or to learn more about our initiatives, please contact our government offices or visit one of our community centres.
     </p>
     <ul class="contact-info">
-      <li>Email: <a href="mailto:info@island.gov">info@island.gov</a></li>
-      <li>Phone: +1 (234) 567-890</li>
-      <li>Address: 123 Island Way, Coastal City, ISLAND™</li>
+      <li>Email: <a href="mailto:info@islandtm.gov">info@islandtm.gov</a></li>
+      <li>Phone: +31 (20) 525-222</li>
+      <li>Address: 123 Island Way, ©oastal ©ity, ISLAND™</li>
     </ul>
   </section>
 
-  <!-- Footer -->
+  <!-- Back to Top Button -->
+  <button id="backToTopBtn">↑ Top</button>
+
+  <!-- Footer with an extra appearance of the small logo -->
   <footer>
-    <p>&copy; 2025 ISLAND™ Government. All rights reserved.</p>
+    <img src="logo_small.png" alt="Small Logo" class="footer-logo" />
+    <p>
+      &copy; 125 ISLAND™ Government. All rights reserved. ISLAND™ is a registered trademark.
+      Licensed under Creative Commons. Powered by Computational Social Science.
+    </p>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>

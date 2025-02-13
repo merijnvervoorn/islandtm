@@ -1,0 +1,5 @@
+101 - 30k loss
+102 - 25k loss
+103 - 10k loss
+104 - 15k loss
+105 - 20k loss

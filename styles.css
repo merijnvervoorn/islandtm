@@ -1,167 +1,290 @@
-/* 
-  Color palette inspired by the island image:
-  - Primary green: #7BB47B (soft green)
-  - Secondary blue/teal: #6EB1B1
-  - Accent: #F2F2F2 (light neutral)
-  - Dark text: #333
-*/
+/* Define color variables using blue and brown */
+:root {
+  --blue: #133e44;
+  --brown: #a58469;
+  --white: #ffffff;
+  --font-family: 'Arial', sans-serif;
+}
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Arial", sans-serif;
-  }
-  
-  body {
-    background-color: #F2F2F2;
-    color: #333;
-    line-height: 1.6;
-  }
-  
-  /* Header & Navigation */
-  header {
-    background-color: #7BB47B;
-    color: #fff;
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .header-logo h1 {
-    margin-bottom: 0.5rem;
-  }
-  
-  .main-nav ul {
-    list-style: none;
-    display: flex;
-    gap: 1rem;
-  }
-  
-  .main-nav a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  .main-nav a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Hero Section */
-  .hero {
-    position: relative;
-    text-align: center;
-    color: #333;
-    margin-bottom: 2rem;
-  }
-  
-  .island-image {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-  
-  .hero-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: rgba(250, 250, 250, 0.8);
-    padding: 1rem 2rem;
-    border-radius: 8px;
-  }
-  
-  .hero-text h2 {
-    margin-bottom: 0.5rem;
-    color: #333;
-  }
-  
-  /* Sections */
-  .section {
-    max-width: 900px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-  }
-  
-  .section h2 {
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-    color: #6EB1B1;
-    text-align: center;
-  }
-  
-  /* Policy Section */
-  .policy-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    justify-content: center;
-  }
-  
-  .policy {
-    background-color: #fff;
-    padding: 1rem;
-    border-radius: 5px;
-    flex: 1 1 250px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  .policy h3 {
-    color: #7BB47B;
-    margin-bottom: 0.5rem;
-  }
-  
-  /* Programs Section */
-  .program-list {
-    list-style: disc;
-    margin-left: 2rem;
-    margin-top: 1rem;
-  }
-  
-  /* Community Section */
-  .facilities {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    justify-content: center;
-  }
-  
-  .facility {
-    background-color: #fff;
-    padding: 1rem;
-    border-radius: 5px;
-    flex: 1 1 250px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  .facility h3 {
-    color: #7BB47B;
-    margin-bottom: 0.5rem;
-  }
-  
-  /* Contact Section */
-  .contact-section {
-    text-align: center;
-  }
-  
-  .contact-info {
-    list-style: none;
-    margin-top: 1rem;
-  }
-  
-  .contact-info li {
-    margin: 0.5rem 0;
-  }
-  
-  /* Footer */
-  footer {
-    background-color: #7BB47B;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
-    margin-top: 2rem;
-    font-size: 0.9rem;
-  }
-  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--white);
+  color: var(--blue);
+  font-family: var(--font-family);
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: var(--white);
+  border-bottom: 2px solid var(--blue);
+  padding: 1rem 2rem;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-full {
+  max-height: 150px; /* Enlarged logo */
+  height: auto;
+}
+
+/* Navigation */
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: var(--blue);
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border: 2px solid transparent;
+  transition: background-color 0.3s, border 0.3s;
+}
+
+.main-nav a:hover {
+  background-color: var(--blue);
+  color: var(--white);
+  border: 2px solid var(--brown);
+}
+
+/* Hero Section with parallax background */
+.hero {
+  position: relative;
+  height: 70vh;
+  background: url('island.jpg') no-repeat center center/cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(19, 62, 68, 0.5);
+}
+
+.hero-text {
+  position: relative;
+  text-align: center;
+  color: var(--white);
+  padding: 0 1rem;
+  max-width: 800px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero-text p {
+  font-size: 1.3rem;
+}
+
+/* Sections */
+.section {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--white);
+  border: 1px solid var(--blue);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(19, 62, 68, 0.1);
+}
+
+.section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--blue);
+  border-bottom: 2px solid var(--brown);
+  padding-bottom: 0.5rem;
+}
+
+/* Initiatives Section */
+.initiatives-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.initiative-box {
+  border: 1px solid var(--brown);
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(19, 62, 68, 0.1);
+}
+
+.initiative-box h3 {
+  font-size: 1.5rem;
+  color: var(--blue);
+  margin-bottom: 0.5rem;
+}
+
+/* Ministers Section */
+.ministers-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.minister {
+  border: 1px solid var(--brown);
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(19, 62, 68, 0.1);
+}
+
+.minister h3 {
+  font-size: 1.5rem;
+  color: var(--blue);
+  margin-bottom: 0.5rem;
+}
+
+/* Community Section */
+/* (Uses the same styling as general .section) */
+
+/* Citizen Information Section */
+.citizen-info-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.info-box {
+  border: 1px solid var(--brown);
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(19, 62, 68, 0.1);
+}
+
+.info-box h3 {
+  font-size: 1.5rem;
+  color: var(--blue);
+  margin-bottom: 0.5rem;
+}
+
+/* Footer Legal & Credits Section */
+/* (Uses the same styling as general .section) */
+
+/* Contact Info */
+.contact-info {
+  list-style: none;
+  margin-top: 1rem;
+}
+
+.contact-info li {
+  margin-bottom: 0.5rem;
+}
+
+/* Back to Top Button */
+#backToTopBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: var(--blue);
+  color: var(--white);
+  border: none;
+  padding: 0.75rem;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: none;
+  transition: background-color 0.3s;
+}
+
+#backToTopBtn:hover {
+  background-color: var(--brown);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--white);
+  border-top: 2px solid var(--blue);
+  color: var(--blue);
+  margin-top: 2rem;
+}
+
+.footer-logo {
+  width: 50px;
+  margin-bottom: 0.5rem;
+}
+
+/* Fade-In Animations */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease-in-out, transform 0.6s ease-in-out;
+}
+
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Styling for the Anthem Link Box */
+#anthem-link {
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.anthem-box {
+  background-color: var(--white);
+  box-shadow: 0 2px 4px rgba(19, 62, 68, 0.1);
+  border-radius: 10px;
+  padding: 2rem;
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+.anthem-box:hover {
+  transform: translateY(-5px); /* Hover effect to lift the box */
+}
+
+.anthem-link {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  text-decoration: none;
+  color: var(--blue);
+}
+
+.anthem-flag {
+  width: 50px; /* Size of the flag */
+  height: auto;
+  margin-right: 1rem; /* Space between the flag and the text */
+}
+
+.anthem-link p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+  color: var(--blue);
+  display: inline-block;
+  text-align: left;
+}
+
+.anthem-link:hover p {
+  color: var(--brown); /* Change text color on hover */
+}
